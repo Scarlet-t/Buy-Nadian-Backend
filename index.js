@@ -18,8 +18,6 @@ app.get("/", (req, res) => {
   res.send("Buy-Nadian Engine running");
 });
 
-
-
 // listening message idk
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
