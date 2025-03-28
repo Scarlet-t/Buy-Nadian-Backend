@@ -13,23 +13,14 @@ function isImported(product, referenceCountry = "canada") {
 
 // grabs image from product info
 // gets display image by default
-function getImage(product, size = "display") {
+function getImage(product, size = "") {
   return (
-    product.selected_images?.front?.[size]?.en ||
-    product[`image_${size}_url`] ||
-    product.image_url ||
-    product.image_front_url ||
+    product?.selected_images?.front?.[size]?.en ||
+    product?.[`image_${size}_url`] ||
+    product?.image_url ||
+    product?.image_front_url ||
     null
   );
-}
-
-function addSearchTags(params, tagTypes, tagValues) {
-  params = tagTypes.forEach((tagType, idx) => {
-    params[`tagtype_${idx}`] = tagType;
-    params[`tag_${idx}`] = tagValues[idx];
-    params[`tag_contains_${idx}`] = 'contains'
-  });
-  return params;
 }
 
 // !!!! EXPORTS HERE
@@ -45,17 +36,11 @@ export function extractProductDetails(product, referenceCountry = "canada") {
     brand_tags: product.brands_tags || [],
     description: product.generic_name || null,
     categories: product.categories_tags || [],
-    image: getMainImage(),
-    all_images: product.images
-      ? Object.values(product.images)
-          .map((img) => img?.sizes?.full || null)
-          .filter(Boolean)
-      : [],
+    image: getImage(product),
     labels: product.labels_tags || [],
     allergens: product.allergens_tags || [],
     additives: product.additives_tags || [],
-    is_imported: isImported(),
-    countries_sold_in: product.countries_tags || [],
+    is_imported: isImported(product, referenceCountry),
     manufacturing_places: product.manufacturing_places || null,
     origins: product.origins || null,
     origins_tags: product.origins_tags || [],
@@ -78,7 +63,7 @@ export function extractProductDetails(product, referenceCountry = "canada") {
 }
 
 // only extracts fields needed for preview
-export function extractProductPreviewDetails(product, referenceCountry="canada") {
+export function extractProductPreviewDetails(product) {
   if (!product)
     return null;
 

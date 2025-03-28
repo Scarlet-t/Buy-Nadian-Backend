@@ -1,23 +1,26 @@
-// server.js
-import express from 'express';
-import openai from './api/oai.js';
+// npm
+import express from "express";
+
+// api directory
+import openai from "./api/oai.js";
+import {fetchProductsByFields} from "./api/openFoodFacts.js";
+
+// modules directory
+import * as products from "./modules/productsModule.js";
 
 const app = express();
 const PORT = 6969;
 
 app.use(express.json());
 
-app.get('/', (req, res) => {
-  res.send('Buy-Nadian Engine running');
+// ROUTES HERE
+app.get("/", (req, res) => {
+  res.send("Buy-Nadian Engine running");
 });
 
+
+
+// listening message idk
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-
-import OpenFoodFacts from "node_modules/@openfoodfacts/openfoodfacts-nodejs";
-
-const client = new OpenFoodFacts();
-
-console.log(client);
-

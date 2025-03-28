@@ -3,9 +3,21 @@
 
 // API reference : https://wiki.openfoodfacts.org/API/Read/Search
   
-  // fetches array of json objects
+  // fetches array of objects
   // each is a product from openfoodfacts
   // the tagTypes, tagValues are arrays
+  // return is parsed json
+
+  function addSearchTags(params, tagTypes, tagValues) {
+    tagTypes.forEach((tagType, idx) => {
+      params[`tagtype_${idx}`] = tagType;
+      params[`tag_${idx}`] = tagValues[idx];
+      params[`tag_contains_${idx}`] = 'contains'
+    });
+    return params;
+  }
+
+  // EXPORTS
   export async function fetchProductsByFields({
     tagTypes,
     tagValues,
@@ -15,18 +27,20 @@
   
     const url = new URL("https://world.openfoodfacts.org/cgi/search.pl");
   
-    const params = {
+    let params = {
       action: "process",
       page_size: pageSize,
       page: page,
       json: 1,
     };
   
-    params = addSearchTags(params);
+    params = addSearchTags(params, tagTypes, tagValues);
   
     // add all the search parameters
-    Object.entries(params).forEach(([key, val]) =>
-      url.searchParams.append(key, val)
+    Object.entries(params).forEach(([key, val]) =>{
+        // console.log(`key: ${key}, value: ${val}`);
+        url.searchParams.append(key, val);
+    }
     );
   
     const res = await fetch(url.toString(), {headers: {
@@ -37,8 +51,6 @@
   
     return data.products || []; //!! returns empty string if no results
   }
-  
-  const data = await response.json();
-  console.log(data);
+
 
   

@@ -24,3 +24,15 @@
 ## 5. Display Result
 - Parse returned JSON:
 - WIP
+
+## things completed:
+- openai estimation stuff (not tested)
+- fetch from openfoodfacts (tested with 1 search field: country = canada, need to be tested more)
+- from productsModule:
+  - extractProductDetails (tested, results not studied super well lol)
+  - extractProductPreviewDetails (tested)
+
+##  things i just realised need to be done:
+- openai assistant
+- madeincanada directory stuff
+- 
