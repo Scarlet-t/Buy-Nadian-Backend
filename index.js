@@ -17,11 +17,6 @@ const rMod = require("./modules/redis.js");
 
 const app = express();
 const PORT = 6969;
-(async () => {
-    const categoryJson = JSON.parse(
-      await fs.readFile("./data/categories.json", "utf-8")
-    );
-  })();
 
 app.use(express.json());
 
@@ -144,20 +139,20 @@ app.get("/test2", async (req, res) => {
 });
 
 // ACTUAL ROUTES
-app.get("/categories", async (req, res) => {
-  try {
-    let categories = Object.entries(categoryJson)
-      .filter(([_, dat]) => !dat.parents || dat.parents.length === 0)
-      .map(([id, dat], idx) => ({
-        id: idx,
-        name: dat.name.en || id,
-      }));
-    res.json(categories);
-  } catch (error) {
-    console.log(error);
-    res.status(500);
-  }
-});
+// app.get("/categories", async (req, res) => {
+//   try {
+//     let categories = Object.entries(categoryJson)
+//       .filter(([_, dat]) => !dat.parents || dat.parents.length === 0)
+//       .map(([id, dat], idx) => ({
+//         id: idx,
+//         name: dat.name.en || id,
+//       }));
+//     res.json(categories);
+//   } catch (error) {
+//     console.log(error);
+//     res.status(500);
+//   }
+// });
 
 
 app.get("/search_products", async (req, res) => {
