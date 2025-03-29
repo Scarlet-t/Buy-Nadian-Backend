@@ -21,7 +21,7 @@
   export async function fetchProductsByFields({
     tagTypes,
     tagValues,
-    pageSize = 12,
+    pageSize = 50,
     page = 1,
   }) {
   

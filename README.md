@@ -32,7 +32,16 @@
   - extractProductDetails (tested, results not studied super well lol)
   - extractProductPreviewDetails (tested)
 
-##  things i just realised need to be done:
-- openai assistant
-- madeincanada directory stuff
+##  things i just realised need to be done (will be added as i think of it i really dont wanna come up with a list rn tbh):
+- openai assistant (jenny)
+- madeincanada directory stuff (jj)
 - 
+
+## stretch goals that i can think of:
+- sustainability score
+  - using epi_score, transportation_score from product.origin_breakdown
+
+
+## Thanks to:
+- https://www.ontario.ca/foodland/page/find-and-buy-local-food
+- https://madeincanadadirectory.ca/ 

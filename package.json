@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "nanogptjs": "^1.0.4",
     "openai": "^4.90.0"
   }
 }

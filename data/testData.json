@@ -1,0 +1,4667 @@
+[
+    {
+        "code": "3017620429484",
+        "product_name": "Nutella",
+        "brand": "Ferrero, Nutella",
+        "brand_tags": [
+            "ferrero",
+            "nutella"
+        ],
+        "description": "Pâte à tartiner aux noisettes et au cacao",
+        "categories": [
+            "en:breakfasts",
+            "en:spreads",
+            "en:sweet-spreads",
+            "fr:pates-a-tartiner",
+            "en:hazelnut-spreads",
+            "en:chocolate-spreads",
+            "en:cocoa-and-hazelnuts-spreads"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/301/762/042/9484/front_en.373.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:no-preservatives",
+            "en:no-colorings",
+            "en:no-hydrogenated-fats",
+            "fr:triman",
+            "en:certifie-par-sgs"
+        ],
+        "allergens": [
+            "en:milk",
+            "en:nuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, huile de palme, NOISETTES 13%, LAIT écrémé en poudre 8,7%, cacao maigre 7,4%, émulsifiants : lécithines [ SOJA ] vanilline",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 42.975
+            },
+            {
+                "name": "huile de palme",
+                "percent": 24.225
+            },
+            {
+                "name": "NOISETTES",
+                "percent": 13
+            },
+            {
+                "name": "LAIT écrémé en poudre",
+                "percent": 8.7
+            },
+            {
+                "name": "cacao maigre",
+                "percent": 7.4
+            },
+            {
+                "name": "émulsifiants",
+                "percent": 3.7
+            },
+            {
+                "name": "lécithines",
+                "percent": 1.85
+            },
+            {
+                "name": "vanilline",
+                "percent": 1.85
+            },
+            {
+                "name": "lécithines de SOJA",
+                "percent": 1.85
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3046920028004",
+        "product_name": "Excellence 70% Cocoa Intense Dark",
+        "brand": "Lindt",
+        "brand_tags": [
+            "lindt"
+        ],
+        "description": "Dark Chocolate 70% cocoa",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:chocolates",
+            "en:dark-chocolates",
+            "en:extra-fine-dark-chocolates"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/304/692/002/8004/front_en.224.400.jpg",
+        "labels": [
+            "en:vegetarian",
+            "en:vegan",
+            "en:green-dot",
+            "en:made-in-france"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "France",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "e",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Cocoa mass, sugar, cocoa butter, vanilla.",
+        "ingredient_list": [
+            {
+                "name": "Cocoa mass",
+                "percent": 62.5
+            },
+            {
+                "name": "sugar",
+                "percent": 15
+            },
+            {
+                "name": "cocoa butter",
+                "percent": 11.25
+            },
+            {
+                "name": "vanilla",
+                "percent": 11.25
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3451790988677",
+        "product_name": "Le Beurre Tendre Doux",
+        "brand": "Elle & Vire,Savencia",
+        "brand_tags": [
+            "elle-vire",
+            "savencia"
+        ],
+        "description": null,
+        "categories": [
+            "en:dairies",
+            "en:fats",
+            "en:spreads",
+            "en:spreadable-fats",
+            "en:animal-fats",
+            "en:dairy-spreads",
+            "en:milkfat",
+            "en:butters",
+            "en:unsalted-butters",
+            "en:sweet-cream-butters",
+            "en:butter-82-fat-unsalted-easy-to-spread",
+            "fr:beurres-tendres"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/345/179/098/8677/front_en.186.400.jpg",
+        "labels": [
+            "en:green-dot",
+            "en:no-additives",
+            "fr:triman",
+            "en:fabrique-en-france",
+            "en:medaille-d-argent-du-concours-general-agricole-2009",
+            "en:point-vert"
+        ],
+        "allergens": [
+            "en:milk"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Normandie,France",
+        "origins": "France",
+        "origins_tags": [
+            "en:france"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "cream (origin france), milk fat , lactic ferments,",
+        "ingredient_list": [
+            {
+                "name": "cream",
+                "percent": 66.6666666666667
+            },
+            {
+                "name": "milk fat",
+                "percent": 16.6666666666667
+            },
+            {
+                "name": "lactic ferments",
+                "percent": 16.6666666666667
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "93",
+                "origin": "en:france",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8712100338694",
+        "product_name": "Maizena Fleur de Maïs Sans Gluten 400g",
+        "brand": "Maïzena,Unilever",
+        "brand_tags": [
+            "maizena",
+            "unilever"
+        ],
+        "description": "Fleur de Maïs®",
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:cereals-and-potatoes",
+            "en:cereals-and-their-products",
+            "en:cooking-helpers",
+            "en:starches",
+            "en:cereal-starches",
+            "en:corn-starch"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/871/210/033/8694/front_en.258.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:crossed-grain-trademark",
+            "fr:afdiag",
+            "fr:triman",
+            "fr:fr-103-001"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "a",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Amidon de maïs.",
+        "ingredient_list": [
+            {
+                "name": "Amidon de maïs",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3664346305990",
+        "product_name": "Grand Arôme 32% de Cacao",
+        "brand": "Poulain",
+        "brand_tags": [
+            "poulain"
+        ],
+        "description": "Cacao fortement dégraissé en poudre sucré",
+        "categories": [
+            "en:beverages-and-beverages-preparations",
+            "en:cocoa-and-its-products",
+            "en:beverage-preparations",
+            "en:cocoa-and-chocolate-powders",
+            "en:instant-beverages",
+            "en:cocoa-powders",
+            "en:instant-chocolate-powders"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/366/434/630/5990/front_fr.120.400.jpg",
+        "labels": [
+            "en:green-dot",
+            "en:made-in-france",
+            "fr:triman",
+            "fr:loir-et-cher"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Loir-et-Cher,France",
+        "origins": "Africa,European Union",
+        "origins_tags": [
+            "en:africa",
+            "en:european-union"
+        ],
+        "eco_score": "a",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, cacao maigre en poudre 32% minimum (11% de beurre de cacao), arôme.",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 65.5
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 32
+            },
+            {
+                "name": "arôme",
+                "percent": 2.5
+            },
+            {
+                "name": "beurre de cacao",
+                "percent": 32
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": null,
+                "origin": "en:european-union",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3664346306027",
+        "product_name": "chocolat en poudre",
+        "brand": "Poulain",
+        "brand_tags": [
+            "poulain"
+        ],
+        "description": "Cacao fortement dégraissé sucré.",
+        "categories": [
+            "en:beverages-and-beverages-preparations",
+            "en:beverages",
+            "en:cocoa-and-its-products",
+            "en:beverage-preparations",
+            "en:cocoa-and-chocolate-powders",
+            "en:instant-beverages",
+            "en:instant-chocolate-powders"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/366/434/630/6027/front_fr.144.400.jpg",
+        "labels": [
+            "en:low-or-no-sugar",
+            "en:low-sugar",
+            "en:no-gluten",
+            "en:reduced-sugar",
+            "en:green-dot",
+            "en:made-in-france",
+            "fr:triman"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "France",
+        "origins": "Afrique",
+        "origins_tags": [
+            "en:africa"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Cacao maigre (11 % de beurre de cacao) en poudre (50%), sucre, arôme. Peut contenir lait et soja.",
+        "ingredient_list": [
+            {
+                "name": "Cacao maigre",
+                "percent": 50
+            },
+            {
+                "name": "en poudre",
+                "percent": 50
+            },
+            {
+                "name": "sucre",
+                "percent": 0
+            },
+            {
+                "name": "arôme",
+                "percent": 0
+            },
+            {
+                "name": "beurre de cacao",
+                "percent": 50
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3046920022705",
+        "product_name": "Excellence Noir Orange Intense Aux amandes effilées",
+        "brand": "Lindt",
+        "brand_tags": [
+            "lindt"
+        ],
+        "description": "Chocolat noir, extra-fin traditionnel, aux amandes et au jus d'orange.",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:chocolates",
+            "en:dark-chocolates",
+            "en:chocolates-with-almonds",
+            "en:dark-chocolate-bar",
+            "en:dark-chocolates-with-orange"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/304/692/002/2705/front_fr.123.400.jpg",
+        "labels": [
+            "fr:triman"
+        ],
+        "allergens": [
+            "en:milk",
+            "en:nuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e440"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "France,64400 Oloron-Sainte-Marie",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "sucre, pâte de cacao, amandes 7%, jus d'orange à base de concentré 3,9%, beurre de cacao, beurre laitier concentré, sucre inverti, jus de citron à base de concentré, émulsifiant (lécithine de soja), ananas, gélifiant (pectine), arôme naturel d'orange, Peut contenir des graines de sésame et d'autres fruits à coque,",
+        "ingredient_list": [
+            {
+                "name": "sucre",
+                "percent": 47.725
+            },
+            {
+                "name": "pâte de cacao",
+                "percent": 25.775
+            },
+            {
+                "name": "amandes",
+                "percent": 7
+            },
+            {
+                "name": "jus d'orange à base de concentré",
+                "percent": 3.9
+            },
+            {
+                "name": "beurre de cacao",
+                "percent": 1.95
+            },
+            {
+                "name": "beurre laitier concentré",
+                "percent": 1.95
+            },
+            {
+                "name": "sucre inverti",
+                "percent": 1.95
+            },
+            {
+                "name": "jus de citron à base de concentré",
+                "percent": 1.95
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 1.95
+            },
+            {
+                "name": "ananas",
+                "percent": 1.95
+            },
+            {
+                "name": "gélifiant",
+                "percent": 1.94999999999999
+            },
+            {
+                "name": "arôme naturel d'orange",
+                "percent": 1.94999999999999
+            },
+            {
+                "name": "lécithine de soja",
+                "percent": 1.95
+            },
+            {
+                "name": "pectine",
+                "percent": 1.94999999999999
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8076800376999",
+        "product_name": "Lasagne all'uovo",
+        "brand": "Barilla",
+        "brand_tags": [
+            "barilla"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:cereals-and-potatoes",
+            "en:cereals-and-their-products",
+            "en:pastas",
+            "en:cereal-pastas",
+            "en:dry-pastas",
+            "en:durum-wheat-pasta",
+            "en:egg-pastas",
+            "en:dry-egg-pastas",
+            "en:lasagna-sheets",
+            "fr:lasagnes-a-garnir-aux-oeufs"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/807/680/037/6999/front_it.330.400.jpg",
+        "labels": [
+            "en:made-in-italy"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten"
+        ],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "Italie,Parma",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "a",
+        "nutrition_grade": "a",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Semola di grano duro, uova fresche di categoria A (19.36%).",
+        "ingredient_list": [
+            {
+                "name": "Semola di grano duro",
+                "percent": 80.64
+            },
+            {
+                "name": "uova fresche di categoria A",
+                "percent": 19.36
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0898999010007",
+        "product_name": "Coconut Water",
+        "brand": "Vita Coco",
+        "brand_tags": [
+            "vita-coco"
+        ],
+        "description": "Coconut water",
+        "categories": [
+            "en:beverages-and-beverages-preparations",
+            "en:plant-based-foods-and-beverages",
+            "en:beverages",
+            "en:plant-based-beverages",
+            "en:coconut-waters"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/089/899/901/0007/front_en.90.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:vegetarian",
+            "en:no-gmos",
+            "en:vegan",
+            "en:certified-b-corporation",
+            "en:fsc",
+            "en:fsc-mix",
+            "en:non-gmo-project"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Brazil",
+        "origins": "Thailand",
+        "origins_tags": [
+            "en:thailand"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "b",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Coconut Water (99%), Fructose (&lt;1%), Vitamin C.",
+        "ingredient_list": [
+            {
+                "name": "Coconut Water",
+                "percent": 99
+            },
+            {
+                "name": "Fructose",
+                "percent": 1
+            },
+            {
+                "name": "Vitamin C",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:thailand",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3336970711064",
+        "product_name": "Curly cacahuète l'original",
+        "brand": "Vico,Curly,Intersnack",
+        "brand_tags": [
+            "curly",
+            "intersnack",
+            "vico"
+        ],
+        "description": "Produit soufflé à base de maïs",
+        "categories": [
+            "en:snacks",
+            "en:salty-snacks",
+            "en:appetizers",
+            "en:biscuits-and-crackers",
+            "en:crackers-appetizers",
+            "en:puffed-salty-snacks",
+            "en:puffed-salty-snacks-made-from-maize",
+            "fr:biscuits-aperitif-souffles-a-la-cacahuete"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/333/697/071/1064/front_en.87.400.jpg",
+        "labels": [
+            "en:no-preservatives",
+            "en:no-colorings",
+            "en:no-palm-oil"
+        ],
+        "allergens": [
+            "en:peanuts"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "France",
+        "origins": "Semoule de maïs de France",
+        "origins_tags": [
+            "fr:semoule-de-mais-de-france"
+        ],
+        "eco_score": "b",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "corn meal, roasted peanut meal at 30%, sunflower oil, salt,natural flavor, tomato, spices \r\n,",
+        "ingredient_list": [
+            {
+                "name": "corn meal",
+                "percent": 52
+            },
+            {
+                "name": "roasted peanut meal at",
+                "percent": 30
+            },
+            {
+                "name": "sunflower oil",
+                "percent": 9
+            },
+            {
+                "name": "salt",
+                "percent": 0.75
+            },
+            {
+                "name": "natural flavor",
+                "percent": 0.75
+            },
+            {
+                "name": "tomato",
+                "percent": 0.75
+            },
+            {
+                "name": "spices",
+                "percent": 6.75
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3014680009175",
+        "product_name": "Bonbon à la Sève de Pin",
+        "brand": "La Vosgienne,Mondelez",
+        "brand_tags": [
+            "la-vosgienne",
+            "mondelez"
+        ],
+        "description": "Confiseries",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:confectioneries",
+            "en:chocolate-candies",
+            "en:bonbons",
+            "en:candies"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/301/468/000/9175/front_en.135.400.jpg",
+        "labels": [
+            "en:no-artificial-flavors",
+            "en:made-in-spain",
+            "en:no-colorings"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "Espagne",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, sirop de glucose, miel, menthol, huiles essentielles (eucalyptus, pin), mélasses, extrait de réglisse,",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 57.1428571428571
+            },
+            {
+                "name": "sirop de glucose",
+                "percent": 21.4285714285714
+            },
+            {
+                "name": "miel",
+                "percent": 10.7142857142857
+            },
+            {
+                "name": "menthol",
+                "percent": 5.35714285714286
+            },
+            {
+                "name": "huiles essentielles",
+                "percent": 2.67857142857143
+            },
+            {
+                "name": "mélasses",
+                "percent": 1.33928571428572
+            },
+            {
+                "name": "extrait de réglisse",
+                "percent": 1.33928571428572
+            },
+            {
+                "name": "eucalyptus",
+                "percent": 1.33928571428572
+            },
+            {
+                "name": "pin",
+                "percent": 1.33928571428572
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 70.7589285714286,
+                "transportation_score": 0
+            },
+            {
+                "epi_score": null,
+                "origin": "en:european-union",
+                "percent": 29.2410714285714,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7622210450029",
+        "product_name": "Prince -  Goût Lait -  Choco Au Blé Compet",
+        "brand": "LU",
+        "brand_tags": [
+            "lu"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits",
+            "en:chocolate-biscuits",
+            "en:filled-biscuits"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/762/221/045/0029/front_en.67.400.jpg",
+        "labels": [
+            "en:green-dot"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e500",
+            "en:e503",
+            "en:e503i"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Céréale 49.9% (Farine de _blé_ 34%,Farine de _blé_complète 15.5%), sucre, huiles végétales (palme, colza), sirop de glucose, cacao maigre en poudre 2%, dextrose, perméat de lactosérum(de _lait_), _lait_ entier en poudre 0,8%, amidon de _blé_,  poudres à lever (carbonate d'ammonium, carbonates de sodium) émulsifiant (lécithine de _soja_), sel, _lait_ écrémé en poudre, arômes,\r\nPeut contenir _oeuf_",
+        "ingredient_list": [
+            {
+                "name": "Céréale",
+                "percent": 49.9
+            },
+            {
+                "name": "sucre",
+                "percent": 22.7769230769231
+            },
+            {
+                "name": "huiles végétales",
+                "percent": 14.6615384615385
+            },
+            {
+                "name": "sirop de glucose",
+                "percent": 7.33076923076923
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 2
+            },
+            {
+                "name": "dextrose",
+                "percent": 1.4
+            },
+            {
+                "name": "perméat de lactosérum",
+                "percent": 1.36538461538461
+            },
+            {
+                "name": "_lait_ entier en poudre",
+                "percent": 0.565384615384616
+            },
+            {
+                "name": "amidon de _blé_",
+                "percent": 0
+            },
+            {
+                "name": "poudres à lever",
+                "percent": 0
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 0
+            },
+            {
+                "name": "sel",
+                "percent": 0
+            },
+            {
+                "name": "_lait_ écrémé en poudre",
+                "percent": 0
+            },
+            {
+                "name": "arômes",
+                "percent": 0
+            },
+            {
+                "name": "Farine de _blé_",
+                "percent": 34.2747474747475
+            },
+            {
+                "name": "Farine de _blé_complète",
+                "percent": 15.6252525252525
+            },
+            {
+                "name": "huile de palme",
+                "percent": 7.83076923076923
+            },
+            {
+                "name": "huile de colza",
+                "percent": 6.83076923076923
+            },
+            {
+                "name": "carbonate d'ammonium",
+                "percent": 0
+            },
+            {
+                "name": "carbonates de sodium",
+                "percent": 0
+            },
+            {
+                "name": "lécithine de _soja_",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3165432640006",
+        "product_name": "Sucre de glace",
+        "brand": "Daddy",
+        "brand_tags": [
+            "daddy"
+        ],
+        "description": "Icing sugar",
+        "categories": [
+            "en:sweeteners",
+            "en:sugars",
+            "en:powdered-sugars"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/316/543/264/0006/front_en.267.400.jpg",
+        "labels": [
+            "en:green-dot",
+            "en:limited-edition"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "a",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "icing sugar, starch",
+        "ingredient_list": [
+            {
+                "name": "icing sugar",
+                "percent": 75
+            },
+            {
+                "name": "starch",
+                "percent": 25
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619194261",
+        "product_name": "Ancient Grains Probiotic Granola",
+        "brand": "Nature's Path Organic - Kirkland",
+        "brand_tags": [
+            "nature-s-path-organic-kirkland"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:breakfasts",
+            "en:cereals-and-potatoes",
+            "en:cereals-and-their-products",
+            "en:breakfast-cereals"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/919/4261/front_en.117.400.jpg",
+        "labels": [
+            "en:organic",
+            "en:vegetarian",
+            "en:kosher",
+            "en:usda-organic",
+            "en:vegan",
+            "en:canada-organic",
+            "en:orthodox-union-kosher",
+            "en:bc30-probiotic",
+            "en:quality-assurance-international",
+            "en:whole-grain"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:nuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e306"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "United States",
+        "origins": "United States",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "c",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Whole grain rolled oats*, cane sugar*, soy oil*, khorasan wheat, rolled spelt*, almonds, inulin* rice starch*, rolled quinoa*, rolled amaranth*, sea salt, molasses*, cinnamon*, vanilla flavor*, Probiotics (Bacillus coagulans GBI-30 6086), tocopherols (vitamin E). *ORGANIC Contains soy, almonds and wheat Produced in a facility that uses peanuts and other tree nuts.",
+        "ingredient_list": [
+            {
+                "name": "Whole grain rolled oats",
+                "percent": 53.125
+            },
+            {
+                "name": "cane sugar",
+                "percent": 23.4375
+            },
+            {
+                "name": "soy oil",
+                "percent": 11.71875
+            },
+            {
+                "name": "khorasan wheat",
+                "percent": 5.859375
+            },
+            {
+                "name": "spelt",
+                "percent": 2.9296875
+            },
+            {
+                "name": "almonds",
+                "percent": 1.46484375
+            },
+            {
+                "name": "inulin* rice starch",
+                "percent": 0.732421875
+            },
+            {
+                "name": "quinoa",
+                "percent": 0.3662109375
+            },
+            {
+                "name": "amaranth",
+                "percent": 0.18310546875
+            },
+            {
+                "name": "sea salt",
+                "percent": 0.091552734375
+            },
+            {
+                "name": "molasses",
+                "percent": 0.0457763671875
+            },
+            {
+                "name": "cinnamon",
+                "percent": 0.02288818359375
+            },
+            {
+                "name": "vanilla flavor",
+                "percent": 0.011444091796875
+            },
+            {
+                "name": "Probiotics",
+                "percent": 0.0057220458984375
+            },
+            {
+                "name": "tocopherols",
+                "percent": 0.00286102294921875
+            },
+            {
+                "name": "Produced in a facility that uses peanuts and other tree nuts",
+                "percent": 0.00286102294921875
+            },
+            {
+                "name": "Bacillus coagulans GBI-30 6086",
+                "percent": 0.0057220458984375
+            },
+            {
+                "name": "vitamin E",
+                "percent": 0.00286102294921875
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3056440083193",
+        "product_name": "Chipster",
+        "brand": "Belin,Mondelez",
+        "brand_tags": [
+            "belin",
+            "mondelez"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:salty-snacks",
+            "en:appetizers",
+            "en:biscuits-and-crackers",
+            "en:crackers-appetizers",
+            "en:puffed-salty-snacks",
+            "en:puffed-salty-snacks-made-from-potato"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/305/644/008/3193/front.7.400.jpg",
+        "labels": [
+            "en:no-artificial-flavors",
+            "en:green-dot",
+            "en:no-colorings",
+            "fr:triman"
+        ],
+        "allergens": [],
+        "additives": [
+            "en:e392"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "potato flakes and starch 76,6%, palm oil, salt 3,6%, antioxidant (rosemary extract), turmeric,",
+        "ingredient_list": [
+            {
+                "name": "potato flakes",
+                "percent": 50
+            },
+            {
+                "name": "starch",
+                "percent": 50
+            },
+            {
+                "name": "palm oil",
+                "percent": 0
+            },
+            {
+                "name": "salt",
+                "percent": 0
+            },
+            {
+                "name": "antioxidant",
+                "percent": 0
+            },
+            {
+                "name": "turmeric",
+                "percent": 0
+            },
+            {
+                "name": "rosemary extract",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7613035587793",
+        "product_name": "NESTLE DESSERT Lait",
+        "brand": "Nestlé",
+        "brand_tags": [
+            "nestle"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:confectioneries",
+            "en:chocolate-candies",
+            "en:chocolates",
+            "en:milk-chocolates",
+            "en:milk-chocolate-bar"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/761/303/558/7793/front_en.194.400.jpg",
+        "labels": [
+            "en:nutriscore",
+            "en:nutriscore-grade-e",
+            "en:pure-cocoa-butter",
+            "en:rainforest-alliance",
+            "fr:triman"
+        ],
+        "allergens": [
+            "en:milk"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "Afrique de l'Ouest,Amérique du Sud",
+        "origins_tags": [
+            "en:africa",
+            "en:south-america",
+            "en:west-africa"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, pâte de cacao (Afrique de l'Ouest, Amérique du Sud), beurre de cacao, lait entier en poudre (14,4%), lactose, émulsifiant (lécithines), arôme naturel de vanille de Madagascar.",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 35.6
+            },
+            {
+                "name": "pâte de cacao",
+                "percent": 25
+            },
+            {
+                "name": "beurre de cacao",
+                "percent": 21.4666666666667
+            },
+            {
+                "name": "lait entier en poudre",
+                "percent": 14.4
+            },
+            {
+                "name": "lactose",
+                "percent": 1.76666666666667
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 0.883333333333333
+            },
+            {
+                "name": "arôme naturel de vanille de Madagascar",
+                "percent": 0.883333333333326
+            },
+            {
+                "name": "Afrique de l'Ouest",
+                "percent": 16.1
+            },
+            {
+                "name": "Amérique du Sud",
+                "percent": 8.9
+            },
+            {
+                "name": "lécithines",
+                "percent": 0.883333333333333
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3017760038409",
+        "product_name": "Lulu La Barquette Fraise",
+        "brand": "LU",
+        "brand_tags": [
+            "lu"
+        ],
+        "description": "Génoise garnie à la purée de fraise",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits",
+            "en:sponge-cake-biscuits-with-fruits-covering",
+            "en:strawberry-biscuits",
+            "fr:barquettes",
+            "fr:barquettes-a-la-fraise"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/301/776/003/8409/front_en.134.400.jpg",
+        "labels": [
+            "en:no-artificial-preservatives",
+            "en:no-artificial-colors",
+            "fr:triman"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten"
+        ],
+        "additives": [
+            "en:e330",
+            "en:e440"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "France,Ardennes",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sirop de glucose-fructose, purée de fraises 27,8%*, sucre, farine de blé 19,2%, oeufs 16,8%, amidon de blé, gélifiant (pectines), correcteur d'acidité (acide citrique), arômes, levure sèche, * soit 49,8 % de fraises dans la garniture, Peut contenir lait, fruits à coque,",
+        "ingredient_list": [
+            {
+                "name": "Sirop de glucose-fructose",
+                "percent": 50
+            },
+            {
+                "name": "purée de fraises",
+                "percent": 27.8
+            },
+            {
+                "name": "sucre",
+                "percent": 11.1
+            },
+            {
+                "name": "farine de blé",
+                "percent": 11.1
+            },
+            {
+                "name": "oeufs",
+                "percent": 0
+            },
+            {
+                "name": "amidon de blé",
+                "percent": 0
+            },
+            {
+                "name": "gélifiant",
+                "percent": 0
+            },
+            {
+                "name": "correcteur d'acidité",
+                "percent": 0
+            },
+            {
+                "name": "arômes",
+                "percent": 0
+            },
+            {
+                "name": "levure sèche",
+                "percent": 0
+            },
+            {
+                "name": "pectines",
+                "percent": 0
+            },
+            {
+                "name": "acide citrique",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8001585001224",
+        "product_name": "Trancetto cacao",
+        "brand": "Balconi",
+        "brand_tags": [
+            "balconi"
+        ],
+        "description": "Produit de pâtisserie au four fourré (26%) au cacao maigre",
+        "categories": [
+            "en:snacks",
+            "en:desserts",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:cakes",
+            "en:chocolate-cakes",
+            "en:filled-sponge-cake-slices"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/800/158/500/1224/front_en.119.400.jpg",
+        "labels": [
+            "en:vegetarian",
+            "en:no-preservatives",
+            "en:green-dot",
+            "en:iso-9001",
+            "en:iso-9001-2008",
+            "en:made-in-italy",
+            "en:no-colorings",
+            "en:no-palm-oil"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:milk",
+            "en:nuts"
+        ],
+        "additives": [
+            "en:e450",
+            "en:e471",
+            "en:e500",
+            "en:e503"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "Italy",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, farine de BLÉ (23%), CEUFS (14%), sirop de glucose-fructose, graisses végétales (palme), LAIT écrémé réhydraté (7.9%), cacao maigre en poudre (2.3%), huiles végétales (tournesol, huile d'olive en proportion variable), LAIT écrémé en poudre (1%), émulsifiants: mono - et diglycérides d'acides gras; arômes, pâte de NOISETTES, poudres à lever: carbonates d'ammonium, carbonates de sodium, diphosphates; sel, protéines de LAIT, fibres de BLÉ.",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 29
+            },
+            {
+                "name": "farine de BLÉ",
+                "percent": 23
+            },
+            {
+                "name": "CEUFS",
+                "percent": 14
+            },
+            {
+                "name": "sirop de glucose-fructose",
+                "percent": 10.95
+            },
+            {
+                "name": "graisses végétales",
+                "percent": 10.95
+            },
+            {
+                "name": "LAIT écrémé réhydraté",
+                "percent": 7.9
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 2.3
+            },
+            {
+                "name": "huiles végétales",
+                "percent": 1.45
+            },
+            {
+                "name": "LAIT écrémé en poudre",
+                "percent": 0.449999999999989
+            },
+            {
+                "name": "émulsifiants",
+                "percent": 0
+            },
+            {
+                "name": "arômes",
+                "percent": 0
+            },
+            {
+                "name": "pâte de NOISETTES",
+                "percent": 0
+            },
+            {
+                "name": "poudres à lever",
+                "percent": 0
+            },
+            {
+                "name": "carbonates de sodium",
+                "percent": 0
+            },
+            {
+                "name": "diphosphates",
+                "percent": 0
+            },
+            {
+                "name": "sel",
+                "percent": 0
+            },
+            {
+                "name": "protéines de LAIT",
+                "percent": 0
+            },
+            {
+                "name": "fibres de BLÉ",
+                "percent": 0
+            },
+            {
+                "name": "huile de palme",
+                "percent": 10.95
+            },
+            {
+                "name": "tournesol",
+                "percent": 0.974999999999998
+            },
+            {
+                "name": "huile d'olive",
+                "percent": 0.474999999999998
+            },
+            {
+                "name": "mono- et diglycérides d'acides gras",
+                "percent": 0
+            },
+            {
+                "name": "carbonates d'ammonium",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8410000810004",
+        "product_name": "Original Oreo",
+        "brand": "Oreo",
+        "brand_tags": [
+            "oreo"
+        ],
+        "description": "Biscuits cacaotés fourrés (29%) goût vanille.",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits-and-crackers",
+            "en:biscuits",
+            "en:filled-biscuits",
+            "en:chocolate-sandwich-cookies"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/841/000/081/0004/front_fr.224.400.jpg",
+        "labels": [
+            "en:vegetarian",
+            "en:cocoa-life",
+            "en:green-dot",
+            "en:made-in-the-eu",
+            "fr:tidy-man"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e503",
+            "en:e524"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "République Tchèque",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Farine de BLÉ, sucre, huile de palme, huile de colza, amidon de BLÉ, cacao maigre en poudre 4,7 %, sirop de glucose-fructose, poudres à lever (carbonates d'ammonium, carbonates de potassium, carbonates de sodium), sel, émulsifiant (lécithines de SOJA), correcteur d'acidité (hydroxyde de sodium), arômes, PEUT CONTENIR LAIT,",
+        "ingredient_list": [
+            {
+                "name": "Farine de BLÉ",
+                "percent": 42.4166666666667
+            },
+            {
+                "name": "sucre",
+                "percent": 19.85
+            },
+            {
+                "name": "huile de palme",
+                "percent": 16.6666666666667
+            },
+            {
+                "name": "huile de colza",
+                "percent": 12.8833333333333
+            },
+            {
+                "name": "amidon de BLÉ",
+                "percent": 6.44166666666667
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 1.74166666666667
+            },
+            {
+                "name": "sirop de glucose-fructose",
+                "percent": 0
+            },
+            {
+                "name": "poudres à lever",
+                "percent": 0
+            },
+            {
+                "name": "sel",
+                "percent": 0
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 0
+            },
+            {
+                "name": "correcteur d'acidité",
+                "percent": 0
+            },
+            {
+                "name": "arômes",
+                "percent": 0
+            },
+            {
+                "name": "carbonates d'ammonium",
+                "percent": 0
+            },
+            {
+                "name": "carbonates de potassium",
+                "percent": 0
+            },
+            {
+                "name": "carbonates de sodium",
+                "percent": 0
+            },
+            {
+                "name": "lécithines de SOJA",
+                "percent": 0
+            },
+            {
+                "name": "hydroxyde de sodium",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3252755150005",
+        "product_name": "20 madeleines longues aux œufs frais",
+        "brand": "Le Ster",
+        "brand_tags": [
+            "le-ster"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:desserts",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:cakes",
+            "en:madeleines",
+            "en:long-madeleines"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/325/275/515/0005/front_en.68.400.jpg",
+        "labels": [
+            "en:no-preservatives",
+            "en:made-in-france",
+            "en:no-palm-oil",
+            "fr:aux-oeufs-frais"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk"
+        ],
+        "additives": [
+            "en:e415",
+            "en:e422",
+            "en:e450",
+            "en:e471",
+            "en:e500"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Farine de blé, huile de colza, œufs frais 17%, sucre, sirop de glucose-fructose, stabilisant : glycérol, lait écrémé en poudre, poudres à lever : diphosphates, carbonates de sodium, amidon, émulsifiant : E471 (origine végétale), sel, arômes, épaississants : gomme xanthane-gomme guar.",
+        "ingredient_list": [
+            {
+                "name": "Farine de blé",
+                "percent": 41.5
+            },
+            {
+                "name": "huile de colza",
+                "percent": 29.25
+            },
+            {
+                "name": "œufs frais",
+                "percent": 17
+            },
+            {
+                "name": "sucre",
+                "percent": 6.125
+            },
+            {
+                "name": "sirop de glucose-fructose",
+                "percent": 3.0625
+            },
+            {
+                "name": "stabilisant",
+                "percent": 1.53125
+            },
+            {
+                "name": "lait écrémé en poudre",
+                "percent": 0.765625
+            },
+            {
+                "name": "poudres à lever",
+                "percent": 0.3828125
+            },
+            {
+                "name": "carbonates de sodium",
+                "percent": 0.19140625
+            },
+            {
+                "name": "amidon",
+                "percent": 0.095703125
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 0.0478515625
+            },
+            {
+                "name": "sel",
+                "percent": 0.02392578125
+            },
+            {
+                "name": "arômes",
+                "percent": 0.011962890625
+            },
+            {
+                "name": "épaississants",
+                "percent": 0.011962890625
+            },
+            {
+                "name": "glycérol",
+                "percent": 1.53125
+            },
+            {
+                "name": "diphosphates",
+                "percent": 0.3828125
+            },
+            {
+                "name": "e471",
+                "percent": 0.0478515625
+            },
+            {
+                "name": "gomme xanthane-gomme guar",
+                "percent": 0.011962890625
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7622300744663",
+        "product_name": "Original",
+        "brand": "Oreo,Mondelēz",
+        "brand_tags": [
+            "mondelēz",
+            "oreo"
+        ],
+        "description": "Biscuits cacaotés fourrés goût vanille (29 %)",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits-and-crackers",
+            "en:biscuits",
+            "en:filled-biscuits",
+            "en:chocolate-sandwich-cookies"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/762/230/074/4663/front_fr.197.400.jpg",
+        "labels": [
+            "en:vegetarian",
+            "en:cocoa-life",
+            "en:green-dot",
+            "fr:tidy-man"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e503",
+            "en:e524"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Farine de BLE, sucre, huile de palme, huile de colza, cacao maigre en poudre 4,3%, amidon de BLE, sirop de glucose-fructose, poudres à lever (carbonates d'ammonium, carbonates de potassium, carbonates de sodium), sel, émulsifiant (lécithines de SOJA), correcteur d'acidité (hydroxyde de sodium), arôme.",
+        "ingredient_list": [
+            {
+                "name": "Farine de BLE",
+                "percent": 45.5666666666667
+            },
+            {
+                "name": "sucre",
+                "percent": 21.15
+            },
+            {
+                "name": "huile de palme",
+                "percent": 17.3833333333333
+            },
+            {
+                "name": "huile de colza",
+                "percent": 10.1
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 4.3
+            },
+            {
+                "name": "amidon de BLE",
+                "percent": 0.75
+            },
+            {
+                "name": "sirop de glucose-fructose",
+                "percent": 0.375
+            },
+            {
+                "name": "poudres à lever",
+                "percent": 0.1875
+            },
+            {
+                "name": "sel",
+                "percent": 0.09375
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 0.046875
+            },
+            {
+                "name": "correcteur d'acidité",
+                "percent": 0.0234375
+            },
+            {
+                "name": "arôme",
+                "percent": 0.0234375
+            },
+            {
+                "name": "carbonates d'ammonium",
+                "percent": 0.09375
+            },
+            {
+                "name": "carbonates de potassium",
+                "percent": 0.046875
+            },
+            {
+                "name": "carbonates de sodium",
+                "percent": 0.046875
+            },
+            {
+                "name": "lécithines de SOJA",
+                "percent": 0.046875
+            },
+            {
+                "name": "hydroxyde de sodium",
+                "percent": 0.0234375
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0078895300024",
+        "product_name": "李錦記熊貓牌鮮味蠔油",
+        "brand": "Lee Kum Kee",
+        "brand_tags": [
+            "lee-kum-kee"
+        ],
+        "description": "oyster sauce",
+        "categories": [
+            "en:condiments",
+            "en:sauces",
+            "en:oyster-sauces",
+            "en:groceries"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/007/889/530/0024/front_en.58.400.jpg",
+        "labels": [],
+        "allergens": [
+            "en:gluten",
+            "en:molluscs"
+        ],
+        "additives": [
+            "en:e150a",
+            "en:e621"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "Hong Kong",
+        "origins": "China",
+        "origins_tags": [
+            "en:china"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Water, sugar, salt, oyster extract 11% [oysters (molluscs) 90%, water, salt], salt, modified corn starch, flavour enhancer E621, wheat flour, colour E150a",
+        "ingredient_list": [
+            {
+                "name": "Water",
+                "percent": 50
+            },
+            {
+                "name": "sugar",
+                "percent": 25
+            },
+            {
+                "name": "salt",
+                "percent": 12.5
+            },
+            {
+                "name": "oyster",
+                "percent": 11
+            },
+            {
+                "name": "salt",
+                "percent": 0.75
+            },
+            {
+                "name": "modified corn starch",
+                "percent": 0.375
+            },
+            {
+                "name": "flavour enhancer",
+                "percent": 0.1875
+            },
+            {
+                "name": "wheat flour",
+                "percent": 0.09375
+            },
+            {
+                "name": "colour",
+                "percent": 0.09375
+            },
+            {
+                "name": "oysters",
+                "percent": 11
+            },
+            {
+                "name": "water",
+                "percent": 0
+            },
+            {
+                "name": "salt",
+                "percent": 0
+            },
+            {
+                "name": "e621",
+                "percent": 0.1875
+            },
+            {
+                "name": "e150a",
+                "percent": 0.09375
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:china",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0048001213487",
+        "product_name": "Mayonnaise",
+        "brand": "Hellmann's,Unilever",
+        "brand_tags": [
+            "hellmann-s",
+            "unilever"
+        ],
+        "description": "Mayonnaise",
+        "categories": [
+            "en:condiments",
+            "en:sauces",
+            "en:mayonnaises",
+            "en:groceries"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/004/800/121/3487/front_en.6.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:kosher",
+            "en:omega-3",
+            "en:high-in-omega-3",
+            "en:kosher-parve",
+            "en:orthodox-union-kosher",
+            "en:parve"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e385"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "Canada,USA",
+        "origins": "États-Unis",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "soybean oil, water, whole eggs and egg yolks (whole eggs and egg yolks), vinegar, salt, sugar, lemon juice concentrate, calcium disodium edta (used to protect quality), natural flavors,",
+        "ingredient_list": [
+            {
+                "name": "soybean oil",
+                "percent": 55
+            },
+            {
+                "name": "water",
+                "percent": 22.5
+            },
+            {
+                "name": "whole eggs",
+                "percent": 11.25
+            },
+            {
+                "name": "egg yolks",
+                "percent": 5.625
+            },
+            {
+                "name": "vinegar",
+                "percent": 2.8125
+            },
+            {
+                "name": "salt",
+                "percent": 0.865
+            },
+            {
+                "name": "sugar",
+                "percent": 0
+            },
+            {
+                "name": "lemon juice concentrate",
+                "percent": 0
+            },
+            {
+                "name": "calcium disodium edta",
+                "percent": 0
+            },
+            {
+                "name": "natural flavors",
+                "percent": 1.94750000000001
+            },
+            {
+                "name": "whole eggs",
+                "percent": 2.8125
+            },
+            {
+                "name": "egg yolks",
+                "percent": 2.8125
+            },
+            {
+                "name": "used to protect quality",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0068100084245",
+        "product_name": "Creamy Peanut Butter",
+        "brand": "Kraft",
+        "brand_tags": [
+            "kraft"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:legumes-and-their-products",
+            "en:fats",
+            "en:spreads",
+            "en:nuts-and-their-products",
+            "en:plant-based-spreads",
+            "en:oilseed-purees",
+            "en:legume-butters",
+            "en:nut-butters",
+            "en:peanut-butters"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/006/810/008/4245/front_en.71.400.jpg",
+        "labels": [
+            "en:kosher",
+            "en:verified"
+        ],
+        "allergens": [
+            "en:peanuts",
+            "en:soybeans",
+            "en:select-roasted-peanuts"
+        ],
+        "additives": [
+            "en:e471"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "Canada",
+        "origins": "USA",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "_Select roasted peanuts_, Soybean oil, Sugars (corn maltodextrin, sugar), Hydrogenated vegetable oil (cottonseed and rapeseed oil), Salt, Mono - and diglycerides",
+        "ingredient_list": [
+            {
+                "name": "_Select roasted peanuts_",
+                "percent": 63.915
+            },
+            {
+                "name": "Soybean oil",
+                "percent": 18.0425
+            },
+            {
+                "name": "Sugars",
+                "percent": 3.335
+            },
+            {
+                "name": "Hydrogenated vegetable oil",
+                "percent": 3.335
+            },
+            {
+                "name": "oil",
+                "percent": 3.335
+            },
+            {
+                "name": "Salt",
+                "percent": 0.54
+            },
+            {
+                "name": "mono- and diglycerides",
+                "percent": 7.49750000000002
+            },
+            {
+                "name": "corn maltodextrin",
+                "percent": 1.6675
+            },
+            {
+                "name": "sugar",
+                "percent": 1.6675
+            },
+            {
+                "name": "cottonseed vegetable oil",
+                "percent": 1.6675
+            },
+            {
+                "name": "rapeseed vegetable oil",
+                "percent": 1.6675
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7613035040793",
+        "product_name": "chocolat NESTLE DESSERT Noir 2X205g",
+        "brand": "Nestlé dessert,Tablettes",
+        "brand_tags": [
+            "nestle-dessert",
+            "tablettes"
+        ],
+        "description": "Chocolat noir supérieur",
+        "categories": [
+            "en:snacks",
+            "en:desserts",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:chocolates",
+            "en:dark-chocolates"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/761/303/504/0793/front_fr.125.400.jpg",
+        "labels": [
+            "en:green-dot",
+            "en:nutriscore",
+            "en:nutriscore-grade-e",
+            "en:rainforest-alliance",
+            "fr:triman"
+        ],
+        "allergens": [],
+        "additives": [
+            "en:e322",
+            "en:e322i"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, pâte de cacao (Afrique de l'Ouest, Amérique du Sud), beurre de cacao, émulsifiant (lécithine), arôme naturel de vanille de Madagascar. Cacao : 53% minimum. Peut contenir : LAIT, FRUITS A COQUE.",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 50
+            },
+            {
+                "name": "pâte de cacao",
+                "percent": 25
+            },
+            {
+                "name": "beurre de cacao",
+                "percent": 12.5
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 6.25
+            },
+            {
+                "name": "arôme naturel de vanille de Madagascar",
+                "percent": 3.125
+            },
+            {
+                "name": "Cacao",
+                "percent": 3.125
+            },
+            {
+                "name": "lécithine",
+                "percent": 6.25
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "5000108030539",
+        "product_name": "So Simple Apple And Blueberry imp",
+        "brand": "Quaker",
+        "brand_tags": [
+            "quaker"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:breakfasts",
+            "en:cereals-and-potatoes",
+            "en:cereals-and-their-products",
+            "en:breakfast-cereals",
+            "en:cereals-with-fruits",
+            "en:porridge",
+            "en:porridge-with-fruits"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/500/010/803/0539/front_en.25.400.jpg",
+        "labels": [],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Wholegrain Rolled Oats (77%), Sugar, Dried Apple Pieces (1%), Dried Blueberries (1%), Natural Flavouring, Salt, Sunflower Oil.",
+        "ingredient_list": [
+            {
+                "name": "Wholegrain Rolled Oats",
+                "percent": 77
+            },
+            {
+                "name": "Sugar",
+                "percent": 20.4
+            },
+            {
+                "name": "Dried Apple Pieces",
+                "percent": 1
+            },
+            {
+                "name": "Blueberries",
+                "percent": 1
+            },
+            {
+                "name": "Natural Flavouring",
+                "percent": 0.299999999999997
+            },
+            {
+                "name": "Salt",
+                "percent": 0.1
+            },
+            {
+                "name": "Sunflower Oil",
+                "percent": 0.200000000000003
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0055828910017",
+        "product_name": "Organic Honey - No 1 Amber",
+        "brand": "Naturoney",
+        "brand_tags": [
+            "naturoney"
+        ],
+        "description": null,
+        "categories": [
+            "en:breakfasts",
+            "en:spreads",
+            "en:sweet-spreads",
+            "en:bee-products",
+            "en:farming-products",
+            "en:sweeteners",
+            "en:honeys",
+            "en:liquid-honeys"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/005/582/891/0017/front_en.38.400.jpg",
+        "labels": [
+            "en:organic",
+            "en:certified-by-ecocert",
+            "en:no-gmos",
+            "en:usda-organic",
+            "en:certified-by-ecocert-canada",
+            "en:non-gmo-project"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "Canada",
+        "origins": "Brazil,Thailand,Canada",
+        "origins_tags": [
+            "en:canada",
+            "en:brazil",
+            "en:thailand"
+        ],
+        "eco_score": "a",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "organic Brazilian honey, organic Thailand honey, organic Canadian honey",
+        "ingredient_list": [
+            {
+                "name": "Brazilian honey",
+                "percent": 66.6666666666667
+            },
+            {
+                "name": "honey",
+                "percent": 16.6666666666667
+            },
+            {
+                "name": "Canadian honey",
+                "percent": 16.6666666666667
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:thailand",
+                "percent": 44.4444444444444,
+                "transportation_score": 0
+            },
+            {
+                "epi_score": "13",
+                "origin": "en:brazil",
+                "percent": 27.7777777777778,
+                "transportation_score": 0
+            },
+            {
+                "epi_score": "68",
+                "origin": "en:canada",
+                "percent": 27.7777777777778,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619885718",
+        "product_name": "Unsalted Mixed Nuts",
+        "brand": "Kirkland",
+        "brand_tags": [
+            "kirkland"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:nuts-and-their-products",
+            "en:nuts",
+            "en:unsalted-mixed-nuts"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/988/5718/front_en.57.400.jpg",
+        "labels": [],
+        "allergens": [
+            "en:nuts"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "United States",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Cashews, Almonds, Pistachios, Pecans, Highly refined peanut oil. May contain: Peanuts, Other tree nuts, Milk, Sesame, Soy, Wheat, Mustard, Sulfites.",
+        "ingredient_list": [
+            {
+                "name": "Cashews",
+                "percent": 60
+            },
+            {
+                "name": "Almonds",
+                "percent": 20
+            },
+            {
+                "name": "Pistachios",
+                "percent": 10
+            },
+            {
+                "name": "Pecans",
+                "percent": 5
+            },
+            {
+                "name": "Highly refined peanut oil",
+                "percent": 5
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0068100084276",
+        "product_name": "Smooth Peanut Butter",
+        "brand": "Kraft",
+        "brand_tags": [
+            "kraft"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:legumes-and-their-products",
+            "en:spreads",
+            "en:nuts-and-their-products",
+            "en:plant-based-spreads",
+            "en:oilseed-purees",
+            "en:legume-butters",
+            "en:nut-butters",
+            "en:peanut-butters"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/006/810/008/4276/front_en.34.400.jpg",
+        "labels": [
+            "en:kosher",
+            "en:mk-kosher"
+        ],
+        "allergens": [
+            "en:peanuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e471"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "USA",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Select roasted peanuts, Soybean oil, Corn maltodextrin, Sugar, Hydrogenated vegetable oil (cotton seed and rapeseed oil), Salt, Mono - and diglycerides (1004L)",
+        "ingredient_list": [
+            {
+                "name": "Select roasted peanuts",
+                "percent": 57.1428571428571
+            },
+            {
+                "name": "Soybean oil",
+                "percent": 21.4285714285714
+            },
+            {
+                "name": "Corn maltodextrin",
+                "percent": 10.7142857142857
+            },
+            {
+                "name": "Sugar",
+                "percent": 3.335
+            },
+            {
+                "name": "Hydrogenated vegetable oil",
+                "percent": 3.335
+            },
+            {
+                "name": "Salt",
+                "percent": 0.5
+            },
+            {
+                "name": "mono- and diglycerides",
+                "percent": 3.54428571428573
+            },
+            {
+                "name": "cotton seed",
+                "percent": 1.6675
+            },
+            {
+                "name": "rapeseed oil",
+                "percent": 1.6675
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8853662056029",
+        "product_name": "Sriracha",
+        "brand": "Flying Goose Brand, Flying Goose",
+        "brand_tags": [
+            "flying-goose",
+            "flying-goose-brand"
+        ],
+        "description": null,
+        "categories": [
+            "en:condiments",
+            "en:sauces",
+            "en:hot-sauces",
+            "en:groceries"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/885/366/205/6029/front_en.26.400.jpg",
+        "labels": [
+            "en:thai-quality-label",
+            "en:halal",
+            "en:natural-colorings",
+            "en:thailand-diversity-refinement",
+            "en:the-central-islamic-committee-of-thailand"
+        ],
+        "allergens": [],
+        "additives": [
+            "en:e202",
+            "en:e260",
+            "en:e330",
+            "en:e415",
+            "en:e621"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "Thailand",
+        "origins": "Thailand",
+        "origins_tags": [
+            "en:thailand"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "chilli 61%, sugar, water, salt, garlic, flavour enhancer: monosodium glutamate, stabiliser: xanthan gum, acidity regulator: acetic acid, citric acid, preservative: potassium sorbate",
+        "ingredient_list": [
+            {
+                "name": "chilli",
+                "percent": 61
+            },
+            {
+                "name": "sugar",
+                "percent": 21.6666666666667
+            },
+            {
+                "name": "water",
+                "percent": 8.66666666666666
+            },
+            {
+                "name": "salt",
+                "percent": 3.665
+            },
+            {
+                "name": "garlic",
+                "percent": 2.50083333333333
+            },
+            {
+                "name": "flavour enhancer",
+                "percent": 1.25041666666667
+            },
+            {
+                "name": "stabiliser",
+                "percent": 0.625208333333333
+            },
+            {
+                "name": "acidity regulator",
+                "percent": 0.312604166666667
+            },
+            {
+                "name": "citric acid",
+                "percent": 0.15630208333333
+            },
+            {
+                "name": "preservative",
+                "percent": 0.15630208333333
+            },
+            {
+                "name": "monosodium glutamate",
+                "percent": 1.25041666666667
+            },
+            {
+                "name": "xanthan gum",
+                "percent": 0.625208333333333
+            },
+            {
+                "name": "acetic acid",
+                "percent": 0.312604166666667
+            },
+            {
+                "name": "potassium sorbate",
+                "percent": 0.15630208333333
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:thailand",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3600900020404",
+        "product_name": "Fine chapelure de pain",
+        "brand": "Tipiak",
+        "brand_tags": [
+            "tipiak"
+        ],
+        "description": "Fine chapelure de pain",
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:cereals-and-potatoes",
+            "en:breads",
+            "en:bread-crumbs"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/360/090/002/0404/front_fr.78.400.jpg",
+        "labels": [
+            "en:green-dot"
+        ],
+        "allergens": [
+            "en:gluten"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "France",
+        "origins": "Royaume-Uni,Allemagne,Espagne",
+        "origins_tags": [
+            "en:united-kingdom",
+            "en:germany",
+            "en:spain"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Farine de blé (gluten), sel, levure, Traces possibles d'oeuf",
+        "ingredient_list": [
+            {
+                "name": "Farine de blé",
+                "percent": 98.1
+            },
+            {
+                "name": "sel",
+                "percent": 0.95
+            },
+            {
+                "name": "levure",
+                "percent": 0.950000000000003
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "85",
+                "origin": "en:germany",
+                "percent": 33.3333333333333,
+                "transportation_score": 0
+            },
+            {
+                "epi_score": "77",
+                "origin": "en:spain",
+                "percent": 33.3333333333333,
+                "transportation_score": 0
+            },
+            {
+                "epi_score": "97",
+                "origin": "en:united-kingdom",
+                "percent": 33.3333333333333,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "3073780828642",
+        "product_name": "Minibaby light",
+        "brand": "Babybel",
+        "brand_tags": [
+            "babybel"
+        ],
+        "description": null,
+        "categories": [
+            "en:dairies",
+            "en:fermented-foods",
+            "en:fermented-milk-products",
+            "en:cheeses"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/307/378/082/8642/front_en.81.400.jpg",
+        "labels": [
+            "en:low-or-no-fat",
+            "en:low-fat",
+            "en:no-gluten",
+            "en:vegetarian",
+            "en:no-preservatives",
+            "en:reduced-fat",
+            "en:30-less-fat",
+            "en:no-colorings",
+            "en:no-lactose",
+            "en:dairy-farmers-of-canada-quality-milk"
+        ],
+        "allergens": [
+            "en:milk"
+        ],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "Canada",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Pasteurized milk, bacterial cultures, salt, calcium chloride, microbial enzyme.",
+        "ingredient_list": [
+            {
+                "name": "Pasteurized milk",
+                "percent": 60
+            },
+            {
+                "name": "bacterial cultures",
+                "percent": 20
+            },
+            {
+                "name": "salt",
+                "percent": 10
+            },
+            {
+                "name": "calcium chloride",
+                "percent": 5
+            },
+            {
+                "name": "microbial enzyme",
+                "percent": 5
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0815074022809",
+        "product_name": "Classic Mayo",
+        "brand": "Chosen Foods",
+        "brand_tags": [
+            "chosen-foods"
+        ],
+        "description": null,
+        "categories": [
+            "en:condiments",
+            "en:sauces",
+            "en:mayonnaises",
+            "en:mayonnaise-made-with-avocado-oil"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/081/507/402/2809/front_en.56.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:no-gmos",
+            "en:certified-gluten-free",
+            "en:non-gmo-project"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:mustard"
+        ],
+        "additives": [
+            "en:e392"
+        ],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "United States",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Avocado oil, Filtered water, Frozen and powdered egg yolks, Organic frozen whole eggs, Organic white vinegar, Organic mustard (organic vinegar, water, organic mustard seed, salt, organic spices), Salt, Organic rosemary extract. C",
+        "ingredient_list": [
+            {
+                "name": "Avocado oil",
+                "percent": 55.5555555555556
+            },
+            {
+                "name": "Filtered water",
+                "percent": 22.2222222222222
+            },
+            {
+                "name": "powdered egg yolks",
+                "percent": 11.1111111111111
+            },
+            {
+                "name": "whole eggs",
+                "percent": 5.55555555555556
+            },
+            {
+                "name": "white vinegar",
+                "percent": 2.77777777777778
+            },
+            {
+                "name": "mustard",
+                "percent": 1.38888888888889
+            },
+            {
+                "name": "Salt",
+                "percent": 0.694444444444443
+            },
+            {
+                "name": "rosemary extract",
+                "percent": 0.347222222222221
+            },
+            {
+                "name": "C",
+                "percent": 0.347222222222229
+            },
+            {
+                "name": "vinegar",
+                "percent": 0.694444444444443
+            },
+            {
+                "name": "water",
+                "percent": 0.347222222222221
+            },
+            {
+                "name": "mustard seed",
+                "percent": 0.173611111111111
+            },
+            {
+                "name": "salt",
+                "percent": 0.0868055555555554
+            },
+            {
+                "name": "spices",
+                "percent": 0.0868055555555554
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "9350271000225",
+        "product_name": "Organic Raspberry Lemonade Kombucha",
+        "brand": "Remedy",
+        "brand_tags": [
+            "remedy"
+        ],
+        "description": null,
+        "categories": [
+            "en:beverages",
+            "en:fermented-foods",
+            "en:fermented-drinks",
+            "en:tea-based-beverages",
+            "en:kombuchas"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/935/027/100/0225/front_en.18.400.jpg",
+        "labels": [
+            "en:low-or-no-sugar",
+            "en:organic",
+            "en:vegetarian",
+            "en:vegan",
+            "en:canada-organic",
+            "en:no-sugar",
+            "en:unpasteurized",
+            "en:aco-certified-organic",
+            "en:i-quit-sugar-tick"
+        ],
+        "allergens": [],
+        "additives": [
+            "en:e960",
+            "en:e968"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "Belgium",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "c",
+        "nutrition_grade": "c",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": "Raw kombucha (carbonated water, raw sugar, black tea, green tea, kombucha culture [bacterial culture, yeast]), Hibiscus, Erythritol, Raspberry extract, Lemon juice, Stevia leaf extract.",
+        "ingredient_list": [
+            {
+                "name": "Raw kombucha",
+                "percent": 58.3333333333333
+            },
+            {
+                "name": "Hibiscus",
+                "percent": 20.8333333333333
+            },
+            {
+                "name": "Erythritol",
+                "percent": 10.4166666666667
+            },
+            {
+                "name": "Raspberry",
+                "percent": 5.20833333333333
+            },
+            {
+                "name": "Lemon juice",
+                "percent": 2.60416666666666
+            },
+            {
+                "name": "Stevia leaf extract",
+                "percent": 2.60416666666666
+            },
+            {
+                "name": "carbonated water",
+                "percent": 37.5
+            },
+            {
+                "name": "raw sugar",
+                "percent": 0
+            },
+            {
+                "name": "black tea",
+                "percent": 0
+            },
+            {
+                "name": "green tea",
+                "percent": 0
+            },
+            {
+                "name": "kombucha culture",
+                "percent": 20.8333333333333
+            },
+            {
+                "name": "bacterial culture",
+                "percent": 0
+            },
+            {
+                "name": "yeast",
+                "percent": 20.8333333333333
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0815074022915",
+        "product_name": "Avocado Oil Spray - 100% Pure, Refined",
+        "brand": "Chosen Foods",
+        "brand_tags": [
+            "chosen-foods"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:fats",
+            "en:vegetable-fats",
+            "en:vegetable-oils",
+            "en:fruit-and-fruit-seed-oils",
+            "en:avocado-oils"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/081/507/402/2915/front_en.64.400.jpg",
+        "labels": [
+            "en:kosher",
+            "en:no-gmos",
+            "en:non-gmo-project",
+            "en:orthodox-union-kosher",
+            "en:glyphosate-residue-free"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "Mexico",
+        "origins_tags": [
+            "en:mexico"
+        ],
+        "eco_score": "f",
+        "nutrition_grade": "unknown",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "AVOCADO OIL",
+        "ingredient_list": [
+            {
+                "name": "AVOCADO OIL",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "17",
+                "origin": "en:mexico",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619225798",
+        "product_name": "beurre de noix mélangées avec graines",
+        "brand": "Kirkland",
+        "brand_tags": [
+            "kirkland"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:legumes-and-their-products",
+            "en:spreads",
+            "en:nuts-and-their-products",
+            "en:plant-based-spreads",
+            "en:oilseed-purees",
+            "en:legume-butters",
+            "en:nut-butters",
+            "en:peanut-butters"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/922/5798/front_en.55.400.jpg",
+        "labels": [],
+        "allergens": [
+            "en:nuts"
+        ],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": "Estados Unidos",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "d",
+        "nutrition_grade": "a",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "amandes, noix de cajou, graines de courge, graines de chia, graines de lin",
+        "ingredient_list": [
+            {
+                "name": "amandes",
+                "percent": 60
+            },
+            {
+                "name": "noix de cajou",
+                "percent": 20
+            },
+            {
+                "name": "graines de courge",
+                "percent": 10
+            },
+            {
+                "name": "graines de chia",
+                "percent": 5
+            },
+            {
+                "name": "graines de lin",
+                "percent": 5
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619450008",
+        "product_name": "natural Peanut Butter creamy",
+        "brand": "Kirkland Signature",
+        "brand_tags": [
+            "kirkland-signature"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:legumes-and-their-products",
+            "en:spreads",
+            "en:nuts-and-their-products",
+            "en:plant-based-spreads",
+            "en:oilseed-purees",
+            "en:legume-butters",
+            "en:nut-butters",
+            "en:peanut-butters"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/945/0008/front_en.35.400.jpg",
+        "labels": [
+            "en:kosher",
+            "en:no-added-sugar"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Canada",
+        "origins": "USA",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "c",
+        "nutrition_grade": "unknown",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Dry roasted Valencia peanuts",
+        "ingredient_list": [
+            {
+                "name": "Dry roasted Valencia peanuts",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7622300331283",
+        "product_name": "Вафла МОРЕНИ maxx",
+        "brand": "Mondelez,МОРЕНИ",
+        "brand_tags": [
+            "mondelez",
+            "морени"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:confectioneries",
+            "en:bars",
+            "en:biscuits-and-cakes",
+            "en:chocolate-candies",
+            "en:biscuits",
+            "en:wafers"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/762/230/033/1283/front_en.62.400.jpg",
+        "labels": [
+            "en:green-dot"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:milk",
+            "en:peanuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e476",
+            "en:e500"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "sugar, wheat flour, palm oil, peanuts 12%, cocoa mass, low-fat cocoa powder, cocoa butter, rapeseed oil, dehydrated milk fat, emulsifiers (soy lecithin, e476, sunflower lecithin), salt, raising agent (sodium carbonates), flavouring, skimmed milk powder, chocolate contains vegetable fat in addition to cocoa butter, may contain other nuts,",
+        "ingredient_list": [
+            {
+                "name": "sugar",
+                "percent": 38
+            },
+            {
+                "name": "wheat flour",
+                "percent": 25
+            },
+            {
+                "name": "palm oil",
+                "percent": 20.6666666666667
+            },
+            {
+                "name": "peanuts",
+                "percent": 12
+            },
+            {
+                "name": "cocoa mass",
+                "percent": 2.16666666666667
+            },
+            {
+                "name": "low-fat cocoa powder",
+                "percent": 1.08333333333334
+            },
+            {
+                "name": "cocoa butter",
+                "percent": 0.541666666666671
+            },
+            {
+                "name": "rapeseed oil",
+                "percent": 0.270833333333336
+            },
+            {
+                "name": "milk fat",
+                "percent": 0.135416666666671
+            },
+            {
+                "name": "emulsifiers",
+                "percent": 0.0677083333333357
+            },
+            {
+                "name": "salt",
+                "percent": 0.0338541666666714
+            },
+            {
+                "name": "raising agent",
+                "percent": 0.0169270833333357
+            },
+            {
+                "name": "flavouring",
+                "percent": 0.0084635416666714
+            },
+            {
+                "name": "skimmed milk powder",
+                "percent": 0.0042317708333357
+            },
+            {
+                "name": "chocolate contains vegetable fat in addition to cocoa butter",
+                "percent": 0.00423177083334281
+            },
+            {
+                "name": "soy lecithin",
+                "percent": 0.0338541666666679
+            },
+            {
+                "name": "e476",
+                "percent": 0.0169270833333339
+            },
+            {
+                "name": "sunflower lecithin",
+                "percent": 0.0169270833333339
+            },
+            {
+                "name": "sodium carbonates",
+                "percent": 0.0169270833333357
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "5012035927592",
+        "product_name": "Starmix",
+        "brand": "Haribo",
+        "brand_tags": [
+            "haribo"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:confectioneries",
+            "en:candies",
+            "en:gummi-candies"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/501/203/592/7592/front_en.42.400.jpg",
+        "labels": [
+            "en:no-artificial-colors"
+        ],
+        "allergens": [],
+        "additives": [
+            "en:e296",
+            "en:e330",
+            "en:e334",
+            "en:e428",
+            "en:e901",
+            "en:e903"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "a",
+        "nutrition_grade": "unknown",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sugars (glucose syrup, sugar, dextrose, caramelized sugar syrup), Gelatine, Citric acid, Tartaric acid, Malic acid, Water, Fruit and plant concentrates (carrot concentrate, apple concentrate, spirulina concentrate, radish concentrate, paprika concentrate, sweet potat concentrate, blueberry concentrate, blackcurrant concentrate, tomato concentrate, hibiscus concentrate), Artificial flavours, Beeswax, Carnauba wax",
+        "ingredient_list": [
+            {
+                "name": "Sugars",
+                "percent": 55
+            },
+            {
+                "name": "Gelatine",
+                "percent": 22.5
+            },
+            {
+                "name": "Citric acid",
+                "percent": 11.25
+            },
+            {
+                "name": "Tartaric acid",
+                "percent": 5.625
+            },
+            {
+                "name": "Malic acid",
+                "percent": 2.8125
+            },
+            {
+                "name": "Water",
+                "percent": 1.40625
+            },
+            {
+                "name": "Fruit and plant concentrates",
+                "percent": 0.703125
+            },
+            {
+                "name": "Artificial flavours",
+                "percent": 0.3515625
+            },
+            {
+                "name": "Beeswax",
+                "percent": 0.17578125
+            },
+            {
+                "name": "Carnauba wax",
+                "percent": 0.17578125
+            },
+            {
+                "name": "glucose syrup",
+                "percent": 28.75
+            },
+            {
+                "name": "sugar",
+                "percent": 13.125
+            },
+            {
+                "name": "dextrose",
+                "percent": 6.5625
+            },
+            {
+                "name": "sugar syrup",
+                "percent": 6.5625
+            },
+            {
+                "name": "carrot concentrate",
+                "percent": 0.3515625
+            },
+            {
+                "name": "apple",
+                "percent": 0.17578125
+            },
+            {
+                "name": "spirulina concentrate",
+                "percent": 0.087890625
+            },
+            {
+                "name": "radish",
+                "percent": 0.0439453125
+            },
+            {
+                "name": "paprika",
+                "percent": 0.02197265625
+            },
+            {
+                "name": "sweet potat concentrate",
+                "percent": 0.010986328125
+            },
+            {
+                "name": "blueberry",
+                "percent": 0.0054931640625
+            },
+            {
+                "name": "blackcurrant",
+                "percent": 0.00274658203125
+            },
+            {
+                "name": "tomato concentrate",
+                "percent": 0.001373291015625
+            },
+            {
+                "name": "hibiscus",
+                "percent": 0.001373291015625
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "94001129",
+        "product_name": "Kiwi Sungold",
+        "brand": "Zespri,Sungold,Catania,ALDI Zespri",
+        "brand_tags": [
+            "aldi-zespri",
+            "catania",
+            "sungold",
+            "zespri"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:fruits-and-vegetables-based-foods",
+            "en:fruits-based-foods",
+            "en:fruits",
+            "en:fresh-fruits",
+            "en:kiwis",
+            "en:yellow-kiwis",
+            "en:fresh-kiwifruits"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/000/009/400/1129/front_en.55.400.jpg",
+        "labels": [],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "fr:nouvelle-zélande, neuseeland",
+        "origins_tags": [
+            "en:new-zealand"
+        ],
+        "eco_score": "not-applicable",
+        "nutrition_grade": "a",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Kiwifruit",
+        "ingredient_list": [
+            {
+                "name": "Kiwifruit",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "69",
+                "origin": "en:new-zealand",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619336753",
+        "product_name": "Peanut butter Pretzels",
+        "brand": "Kirkland Signature",
+        "brand_tags": [
+            "kirkland-signature"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:salty-snacks",
+            "en:appetizers",
+            "en:biscuits-and-crackers",
+            "en:crackers-appetizers",
+            "en:pretzel"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/933/6753/front_en.93.400.jpg",
+        "labels": [],
+        "allergens": [
+            "en:gluten",
+            "en:peanuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e471",
+            "en:e500",
+            "en:e500ii",
+            "en:e503",
+            "en:e503ii"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "USA",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Enriched wheat flour (wheat flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), peanut butter (Valencia peanuts, molasses, mono - and diglycerides), salt, canola oil, soybean oil, corn syrup, barley malt extract, leavening (yeast, sodium bicarbonate, ammonium bicarbonate).",
+        "ingredient_list": [
+            {
+                "name": "Enriched wheat flour",
+                "percent": 56.25
+            },
+            {
+                "name": "peanut butter",
+                "percent": 21.875
+            },
+            {
+                "name": "salt",
+                "percent": 10.9375
+            },
+            {
+                "name": "canola oil",
+                "percent": 5.46875
+            },
+            {
+                "name": "soybean oil",
+                "percent": 2.734375
+            },
+            {
+                "name": "corn syrup",
+                "percent": 1.3671875
+            },
+            {
+                "name": "barley malt extract",
+                "percent": 0.68359375
+            },
+            {
+                "name": "leavening",
+                "percent": 0.68359375
+            },
+            {
+                "name": "wheat flour",
+                "percent": 29.1666666666667
+            },
+            {
+                "name": "niacin",
+                "percent": 13.5416666666667
+            },
+            {
+                "name": "reduced iron",
+                "percent": 6.77083333333333
+            },
+            {
+                "name": "thiamin mononitrate",
+                "percent": 3.38541666666666
+            },
+            {
+                "name": "riboflavin",
+                "percent": 1.69270833333333
+            },
+            {
+                "name": "folic acid",
+                "percent": 1.69270833333333
+            },
+            {
+                "name": "Valencia peanuts",
+                "percent": 10.9375
+            },
+            {
+                "name": "molasses",
+                "percent": 2
+            },
+            {
+                "name": "mono- and diglycerides",
+                "percent": 8.9375
+            },
+            {
+                "name": "yeast",
+                "percent": 0.341796875
+            },
+            {
+                "name": "sodium bicarbonate",
+                "percent": 0.1708984375
+            },
+            {
+                "name": "ammonium bicarbonate",
+                "percent": 0.1708984375
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0016229001711",
+        "product_name": "Coconut Milk",
+        "brand": "aroy-d, thai-agri-foods-public-company-limited",
+        "brand_tags": [
+            "aroy-d",
+            "thai-agri-foods-public-company-limited"
+        ],
+        "description": null,
+        "categories": [
+            "en:beverages-and-beverages-preparations",
+            "en:plant-based-foods-and-beverages",
+            "en:beverages",
+            "en:plant-based-foods",
+            "en:dairy-substitutes",
+            "en:milk-substitutes",
+            "en:plant-based-beverages",
+            "en:plant-based-milk-alternatives",
+            "en:plant-based-creams",
+            "en:plant-based-creams-for-cooking",
+            "en:coconut-milks-and-creams"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/001/622/900/1711/front_en.52.400.jpg",
+        "labels": [],
+        "allergens": [],
+        "additives": [
+            "en:e435"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "Thailand",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "COCONUT MILK 99.96%, POLYSORBATE 60",
+        "ingredient_list": [
+            {
+                "name": "COCONUT MILK",
+                "percent": 99.96
+            },
+            {
+                "name": "POLYSORBATE 60",
+                "percent": 0.0400000000000063
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0111121111121",
+        "product_name": null,
+        "brand": null,
+        "brand_tags": [],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:legumes-and-their-products",
+            "en:meat-alternatives",
+            "en:tofu"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/011/112/111/1121/front_en.4.400.jpg",
+        "labels": [
+            "en:fair-trade",
+            "en:organic",
+            "en:vegetarian",
+            "en:eu-organic",
+            "en:source-of-fibre",
+            "en:source-of-proteins",
+            "en:vegan",
+            "en:high-proteins"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "a-plus",
+        "nutrition_grade": "unknown",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_gluten_free": false,
+        "ingredient_text": null,
+        "ingredient_list": [],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "7622210406354",
+        "product_name": "Choco sticks",
+        "brand": "Milka",
+        "brand_tags": [
+            "milka"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits-and-crackers",
+            "en:biscuits",
+            "en:chocolate-biscuits",
+            "en:drop-cookies",
+            "en:milk-chocolate-biscuits"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/762/221/040/6354/front_en.52.400.jpg",
+        "labels": [
+            "en:distributor-labels",
+            "en:charte-lu-harmony",
+            "en:green-dot"
+        ],
+        "allergens": [
+            "en:milk",
+            "en:nuts"
+        ],
+        "additives": [
+            "en:e476",
+            "en:e502"
+        ],
+        "is_imported": false,
+        "manufacturing_places": null,
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "e",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "biscuit anrob06 alpine milk chocolate (45%), ingrédgerjtbu farglju do wheat, sugar, palm oil, cocoa butter, skim milk cn pudding, cocoa paste, whey pudding (milk), pale butter, glucose syrup, hazelnut paste, emulsifiers (lecithino do soy, e476), salt, baking powder (carbonato acido do sodium, ammonium acid carbonate, diphosphato digodiquo),",
+        "ingredient_list": [
+            {
+                "name": "biscuit anrob06 alpine milk chocolate",
+                "percent": 45
+            },
+            {
+                "name": "ingrédgerjtbu farglju do wheat",
+                "percent": 24.6153846153846
+            },
+            {
+                "name": "sugar",
+                "percent": 15.6089743589744
+            },
+            {
+                "name": "palm oil",
+                "percent": 7.38782051282051
+            },
+            {
+                "name": "cocoa butter",
+                "percent": 3.69391025641026
+            },
+            {
+                "name": "skim milk cn pudding",
+                "percent": 1.84695512820512
+            },
+            {
+                "name": "cocoa paste",
+                "percent": 0.923477564102562
+            },
+            {
+                "name": "whey pudding",
+                "percent": 0.461738782051285
+            },
+            {
+                "name": "pale butter",
+                "percent": 0.230869391025642
+            },
+            {
+                "name": "glucose syrup",
+                "percent": 0.115434695512818
+            },
+            {
+                "name": "hazelnut paste",
+                "percent": 0.0577173477564088
+            },
+            {
+                "name": "emulsifiers",
+                "percent": 0.0288586738782044
+            },
+            {
+                "name": "salt",
+                "percent": 0.0144293369391022
+            },
+            {
+                "name": "baking powder",
+                "percent": 0.0144293369391022
+            },
+            {
+                "name": "lecithino do soy",
+                "percent": 0.0144293369391022
+            },
+            {
+                "name": "e476",
+                "percent": 0.0144293369391022
+            },
+            {
+                "name": "carbonato acido do sodium",
+                "percent": 0.0072146684695511
+            },
+            {
+                "name": "ammonium acid carbonate",
+                "percent": 0.00360733423477555
+            },
+            {
+                "name": "diphosphato digodiquo",
+                "percent": 0.00360733423477555
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "80602316",
+        "product_name": "MixMax",
+        "brand": "Balconi",
+        "brand_tags": [
+            "balconi"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:sweet-pastries-and-pies",
+            "en:viennoiseries",
+            "en:brioches",
+            "en:snacks-sucres"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/000/008/060/2316/front.3.400.jpg",
+        "labels": [
+            "en:no-preservatives",
+            "en:no-colorings"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk",
+            "en:nuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e471",
+            "en:e500",
+            "en:e503"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "Italy",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "c",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Zucchero; Oli vegetali (cocco, girasole, olio di oliva in proporzione FARCITO (19.5%)AL *IAL CACAO MACON variabile); Sciroppo di glucosio-fruttosio; Farina di FRUMENTO (11.4%); UOVA fresche (9.5%); LATTE scremato reidratato (9.3%); LATTE in polvere; LATTE scremato in polvere; Cacao magro in polvere (3.3%); Burro di cacao; Proteine del LATTE, Fibra di FRUME..TO: Pasta di NOCCIOLE; Aromi; Emulsionanti: Mono-e digliceridi degli acidi grassi, Lecitine di SOIA; Agenti lievitanti: Carbonati di ammonio, Carbonati di sodio, Difosfati; Sale. Può contenere altra FRUTTA A GUSCIO.",
+        "ingredient_list": [
+            {
+                "name": "Zucchero",
+                "percent": 50
+            },
+            {
+                "name": "Oli vegetali",
+                "percent": 25
+            },
+            {
+                "name": "Sciroppo di glucosio-fruttosio",
+                "percent": 12.5
+            },
+            {
+                "name": "Farina di FRUMENTO",
+                "percent": 11.4
+            },
+            {
+                "name": "UOVA fresche",
+                "percent": 1.09999999999999
+            },
+            {
+                "name": "LATTE scremato reidratato",
+                "percent": 0
+            },
+            {
+                "name": "LATTE in polvere",
+                "percent": 0
+            },
+            {
+                "name": "LATTE scremato in polvere",
+                "percent": 0
+            },
+            {
+                "name": "Cacao magro in polvere",
+                "percent": 0
+            },
+            {
+                "name": "Burro di cacao",
+                "percent": 0
+            },
+            {
+                "name": "Proteine del LATTE",
+                "percent": 0
+            },
+            {
+                "name": "Fibra di FRUME.TO",
+                "percent": 0
+            },
+            {
+                "name": "Aromi",
+                "percent": 0
+            },
+            {
+                "name": "Emulsionanti",
+                "percent": 0
+            },
+            {
+                "name": "Lecitine di SOIA",
+                "percent": 0
+            },
+            {
+                "name": "Agenti lievitanti",
+                "percent": 0
+            },
+            {
+                "name": "Carbonati di sodio",
+                "percent": 0
+            },
+            {
+                "name": "Difosfati",
+                "percent": 0
+            },
+            {
+                "name": "Sale",
+                "percent": 0
+            },
+            {
+                "name": "Può contenere altra FRUTTA A GUSCIO",
+                "percent": 0
+            },
+            {
+                "name": "cocco",
+                "percent": 12.5
+            },
+            {
+                "name": "girasole",
+                "percent": 6.25
+            },
+            {
+                "name": "olio di oliva in proporzione FARCITO",
+                "percent": 6.25
+            },
+            {
+                "name": "AL *IAL CACAO MACON variabile",
+                "percent": 0
+            },
+            {
+                "name": "Pasta di NOCCIOLE",
+                "percent": 0
+            },
+            {
+                "name": "mono- e digliceridi degli acidi grassi",
+                "percent": 0
+            },
+            {
+                "name": "Carbonati di ammonio",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "26073651",
+        "product_name": "10 pains au lait",
+        "brand": "Les PâtissadesAldi",
+        "brand_tags": [
+            "les-patissadesaldi"
+        ],
+        "description": "Pain au lait aux œufs frais",
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:snacks",
+            "en:breakfasts",
+            "en:cereals-and-potatoes",
+            "en:sweet-snacks",
+            "en:sweet-pastries-and-pies",
+            "en:breads",
+            "en:viennoiseries",
+            "en:milk-bread-rolls",
+            "fr:pains-au-lait-aux-oeufs-frais"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/000/002/607/3651/front_fr.76.400.jpg",
+        "labels": [
+            "en:green-dot",
+            "en:made-in-france",
+            "en:eco-emballages"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk"
+        ],
+        "additives": [
+            "en:e160",
+            "en:e300",
+            "en:e417",
+            "en:e471",
+            "en:e481"
+        ],
+        "is_imported": false,
+        "manufacturing_places": "La Fournée Dorée Atlantique (LFDA) - ZA Sud des Achards - 85150 La Chapelle-Achard,Vendée,Pays de la Loire,La Fournée Dorée (LFD) - Rue de Champelle - ZA Haute Choux - 57255 Sainte-Marie-aux-Chênes,Moselle,Lorraine,France",
+        "origins": null,
+        "origins_tags": [],
+        "eco_score": "b",
+        "nutrition_grade": "d",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Farine de blé, sucre, eau, œufs entiers frais, huile de colza, beurre concentré, émulsifiant : mono - et diglycérides d'acides gras - stéaroyl-2-lactylate de sodium (colza), sel, levure, poudre de lait écrémé 0,2%, gluten de blé, arôme naturel (contient alcool), arôme naturel, épaississant : gomme tara, antioxydant : acide ascorbique, colorant : caroténoïdes.",
+        "ingredient_list": [
+            {
+                "name": "Farine de blé",
+                "percent": 52.2075
+            },
+            {
+                "name": "sucre",
+                "percent": 6.6
+            },
+            {
+                "name": "eau",
+                "percent": 6.6
+            },
+            {
+                "name": "œufs entiers frais",
+                "percent": 6.6
+            },
+            {
+                "name": "huile de colza",
+                "percent": 6.6
+            },
+            {
+                "name": "beurre concentré",
+                "percent": 6.6
+            },
+            {
+                "name": "émulsifiant",
+                "percent": 6.6
+            },
+            {
+                "name": "stéaroyl-2-lactylate de sodium",
+                "percent": 4.19625000000001
+            },
+            {
+                "name": "sel",
+                "percent": 0.54
+            },
+            {
+                "name": "levure",
+                "percent": 0.54
+            },
+            {
+                "name": "poudre de lait écrémé",
+                "percent": 0.2
+            },
+            {
+                "name": "gluten de blé",
+                "percent": 0.1
+            },
+            {
+                "name": "arôme naturel",
+                "percent": 0.1
+            },
+            {
+                "name": "arôme naturel",
+                "percent": 0.1
+            },
+            {
+                "name": "épaississant",
+                "percent": 0.1
+            },
+            {
+                "name": "antioxydant",
+                "percent": 0.1
+            },
+            {
+                "name": "colorant",
+                "percent": 2.21625000000003
+            },
+            {
+                "name": "mono- et diglycérides d'acides gras",
+                "percent": 6.6
+            },
+            {
+                "name": "colza",
+                "percent": 4.19625000000001
+            },
+            {
+                "name": "gomme tara",
+                "percent": 0.1
+            },
+            {
+                "name": "acide ascorbique",
+                "percent": 0.1
+            },
+            {
+                "name": "caroténoïdes",
+                "percent": 2.21625000000003
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:unknown",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "6191509905058",
+        "product_name": "Huile d'olive vierge extra (Biologique)",
+        "brand": "Terra Delyssa",
+        "brand_tags": [
+            "terra-delyssa"
+        ],
+        "description": null,
+        "categories": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:fats",
+            "en:vegetable-fats",
+            "en:olive-tree-products",
+            "en:vegetable-oils",
+            "en:olive-oils",
+            "en:extra-virgin-olive-oils",
+            "en:olive-oils-from-tunisia",
+            "en:virgin-olive-oils"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/619/150/990/5058/front_en.55.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:organic",
+            "en:certified-by-ecocert",
+            "en:no-gmos",
+            "en:usda-organic",
+            "en:canada-organic",
+            "en:non-gmo-project"
+        ],
+        "allergens": [],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Tunisia",
+        "origins": "Tunisie",
+        "origins_tags": [
+            "en:tunisia"
+        ],
+        "eco_score": "d",
+        "nutrition_grade": "unknown",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Huile d'olive vierge Extra Biologique première pression à froid",
+        "ingredient_list": [
+            {
+                "name": "Huile d'olive vierge Extra",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "0",
+                "origin": "en:tunisia",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0731216103987",
+        "product_name": "Organic Aussie Bites",
+        "brand": "Best Express Foods  Inc.",
+        "brand_tags": [
+            "best-express-foods-inc"
+        ],
+        "description": null,
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits",
+            "en:drop-cookies",
+            "en:oatmeal-cookies",
+            "en:raisin-cookies"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/073/121/610/3987/front_en.26.400.jpg",
+        "labels": [
+            "en:organic",
+            "en:usda-organic"
+        ],
+        "allergens": [
+            "en:gluten",
+            "en:milk",
+            "en:peanuts"
+        ],
+        "additives": [
+            "en:e500",
+            "en:e500ii"
+        ],
+        "is_imported": true,
+        "manufacturing_places": null,
+        "origins": "United States",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "b",
+        "nutrition_grade": "e",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Organic Rolled Oats, Organic 1 Oat Flour, Organic Unsalted Butter, Organic 1 Canola Oil, Organic Dried Apricots, Organic 1 Sugar, Organic Cane and Invert Sugar, Organic Raisins, Organic Flax Seeds, Organic Sunflower Seeds, Organic Honey, Organic Shredded Coconut, Organic Quinoa, Organic Chia Seeds, Sea Salt, Baking Soda, Organic I Vanilla. CONTAINS: Oats and Milk. May I contain Wheat, Soy Eggs, Peanuts and Tree 1 Nuts.",
+        "ingredient_list": [
+            {
+                "name": "Rolled Oats",
+                "percent": 52.2727272727273
+            },
+            {
+                "name": "1 Oat Flour",
+                "percent": 23.8636363636364
+            },
+            {
+                "name": "Unsalted Butter",
+                "percent": 11.9318181818182
+            },
+            {
+                "name": "1 Canola Oil",
+                "percent": 5.96590909090909
+            },
+            {
+                "name": "Dried Apricots",
+                "percent": 2.98295454545455
+            },
+            {
+                "name": "1 Sugar",
+                "percent": 1.49147727272727
+            },
+            {
+                "name": "Cane",
+                "percent": 0.74573863636364
+            },
+            {
+                "name": "Invert Sugar",
+                "percent": 0.37286931818182
+            },
+            {
+                "name": "Raisins",
+                "percent": 0.186434659090907
+            },
+            {
+                "name": "Flax Seeds",
+                "percent": 0.0932173295454533
+            },
+            {
+                "name": "Sunflower Seeds",
+                "percent": 0.0466086647727266
+            },
+            {
+                "name": "Honey",
+                "percent": 0.0233043323863598
+            },
+            {
+                "name": "Coconut",
+                "percent": 0.0116521661931799
+            },
+            {
+                "name": "Quinoa",
+                "percent": 0.00582608309659349
+            },
+            {
+                "name": "Chia Seeds",
+                "percent": 0.00291304154829675
+            },
+            {
+                "name": "Sea Salt",
+                "percent": 0.00145652077414837
+            },
+            {
+                "name": "Baking Soda",
+                "percent": 0.000728260387077739
+            },
+            {
+                "name": "I Vanilla",
+                "percent": 0.00036413019353887
+            },
+            {
+                "name": "May I contain Wheat",
+                "percent": 0.000182065096765882
+            },
+            {
+                "name": "Soy Eggs",
+                "percent": 0.0000910325483829411
+            },
+            {
+                "name": "Peanuts",
+                "percent": 0.0000455162741914705
+            },
+            {
+                "name": "Tree 1 Nuts",
+                "percent": 0.0000455162741843651
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "8001585001040",
+        "product_name": "Mix Max",
+        "brand": "Balconi",
+        "brand_tags": [
+            "balconi"
+        ],
+        "description": "Mini génoises fourrées et enrobées au cacao maigre",
+        "categories": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:cakes",
+            "en:filled-sponge-cake-slices"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/800/158/500/1040/front_fr.32.400.jpg",
+        "labels": [
+            "en:no-preservatives",
+            "en:green-dot",
+            "en:made-in-italy",
+            "en:no-colorings"
+        ],
+        "allergens": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk",
+            "en:nuts",
+            "en:soybeans"
+        ],
+        "additives": [
+            "en:e322",
+            "en:e322i",
+            "en:e450",
+            "en:e450i",
+            "en:e471",
+            "en:e500",
+            "en:e500ii",
+            "en:e503",
+            "en:e503ii"
+        ],
+        "is_imported": true,
+        "manufacturing_places": "Italy",
+        "origins": "Italy",
+        "origins_tags": [
+            "en:italy"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Sucre, graisses végétales, sirop de glucose-fructose, farine de blé 11,4 %, oeufs frais, lait écrémé 9,5 %, lait entier en poudre, cacao maigre en poudre 3,2 %, lait écrémé en poudre, pâte de noisettes, protéines de lait, arômes, mono - et diglycérides d'acides gras, lécithine de soja, carbonate acide d'ammonium, carbonate acide de sodium, diphosphate disodique, sel.",
+        "ingredient_list": [
+            {
+                "name": "Sucre",
+                "percent": 25.9
+            },
+            {
+                "name": "graisses végétales",
+                "percent": 18.65
+            },
+            {
+                "name": "sirop de glucose-fructose",
+                "percent": 16.2333333333333
+            },
+            {
+                "name": "farine de blé",
+                "percent": 11.4
+            },
+            {
+                "name": "oeufs frais",
+                "percent": 10.45
+            },
+            {
+                "name": "lait écrémé",
+                "percent": 9.5
+            },
+            {
+                "name": "lait entier en poudre",
+                "percent": 5.53333333333333
+            },
+            {
+                "name": "cacao maigre en poudre",
+                "percent": 2.33333333333333
+            },
+            {
+                "name": "lait écrémé en poudre",
+                "percent": 0
+            },
+            {
+                "name": "pâte de noisettes",
+                "percent": 0
+            },
+            {
+                "name": "protéines de lait",
+                "percent": 0
+            },
+            {
+                "name": "arômes",
+                "percent": 0
+            },
+            {
+                "name": "mono- et diglycérides d'acides gras",
+                "percent": 0
+            },
+            {
+                "name": "lécithine de soja",
+                "percent": 0
+            },
+            {
+                "name": "carbonate acide d'ammonium",
+                "percent": 0
+            },
+            {
+                "name": "carbonate acide de sodium",
+                "percent": 0
+            },
+            {
+                "name": "diphosphate disodique",
+                "percent": 0
+            },
+            {
+                "name": "sel",
+                "percent": 0
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "68",
+                "origin": "en:italy",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    },
+    {
+        "code": "0096619859696",
+        "product_name": "Creamy Almond Butter",
+        "brand": "Kirkland",
+        "brand_tags": [
+            "kirkland"
+        ],
+        "description": null,
+        "categories": [
+            "fr:beurre-d-amande-cremeux"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/985/9696/front_en.25.400.jpg",
+        "labels": [
+            "en:no-gluten",
+            "en:kosher",
+            "en:orthodox-union-kosher"
+        ],
+        "allergens": [
+            "en:nuts"
+        ],
+        "additives": [],
+        "is_imported": true,
+        "manufacturing_places": "Canada",
+        "origins": "USA",
+        "origins_tags": [
+            "en:united-states"
+        ],
+        "eco_score": "unknown",
+        "nutrition_grade": "c",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_gluten_free": false,
+        "ingredient_text": "Roasted almonds.",
+        "ingredient_list": [
+            {
+                "name": "Roasted almonds",
+                "percent": 100
+            }
+        ],
+        "origin_breakdown": [
+            {
+                "epi_score": "63",
+                "origin": "en:united-states",
+                "percent": 100,
+                "transportation_score": 0
+            }
+        ]
+    }
+]

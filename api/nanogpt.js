@@ -1,18 +1,28 @@
-import "dotenv/config";
-import OpenAI from "openai";
+import nanogptjs from 'nanogptjs'
+import dotenv from 'dotenv';
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-export default openai;
+// key setup
+dotenv.config();
+const NANO_GPT_API_KEY = process.env.NANO_GPT_API_KEY;
+
+// nanogpt setup
+const nanogpt = nanogptjs({
+    apiKey: NANO_GPT_API_KEY,
+    defaultModel: 'chatgpt-4o-latest'
+  });
+
+// function exports
 
 export async function getEstimate(productData) {
-  if (!productData) {
-    throw new Error("Missing productData");
-  }
-
-  let completion;
-  let attempts = 0;
-  const maxAttempts = 3;
-  const prompt = `
+    if (!productData) {
+      throw new Error("Missing productData");
+    }
+  
+    let attempts = 0;
+    const maxAttempts = 3;
+    let result = null;
+  
+    const prompt = `
 You are a food sourcing analyst. Based on the provided product data, estimate:
 1. What percentage of the product's ingredients are likely sourced from Canada (estimated_percentage).
 2. A reasonable fallback estimate (prior_average) for similar products in this category, assuming no further data is available.
@@ -75,28 +85,25 @@ Return ONLY a valid JSON object in this **exact structure** (no markdown, no ext
   "disclaimer": "This is an estimated breakdown based on public sourcing patterns. Accuracy may vary."
 }
 `;
-
-  do {
-    completion = await openai.chat.completions.create({
-      model: "gpt-4o",
-      response_format: "json",
-      messages: [
-        {
-          role: "user",
-          content: prompt,
-        },
-      ],
-    });
-  } while (
-    ++attempts < maxAttempts &&
-    !validateEstimate(completion.choices[0].message.content)
-  );
-
-  return JSON.parse(completion.choices[0].message.content);
-}
-
-function validateEstimate(content) {
-  //work in progress
-  //validates the format of gpt's returned estimate
-  return true;
-}
+    
+  
+    while (attempts++ < maxAttempts) {
+      try {
+        const response = await nanogpt.chat(prompt);
+        const content = response.reply;
+  
+        if (validateEstimate(content)) {
+          return JSON.parse(content);
+        }
+      } catch (err) {
+        console.error("NanoGPT call failed:", err);
+      }
+    }
+  
+    throw new Error("Failed to get valid estimate after retries.");
+  }
+  
+  function validateEstimate(content) {
+    return true;
+  }
+  
