@@ -22,7 +22,7 @@ app.use(express.json());
 
 // TEST ROUTES
 app.get("/", (req, res) => {
-    redis.startGet()
+    redis.startGet();
   res.send("Buy-Nadian Engine running");
 });
 
@@ -134,6 +134,7 @@ app.get("/test2", async (req, res) => {
     let thingy = await calculateScore(testJson);
     res.json(thingy);
   } catch (err) {
+    console.log(err);
     res.status(500);
   }
 });
