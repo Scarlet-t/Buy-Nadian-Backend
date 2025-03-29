@@ -10,20 +10,24 @@ import { fetchProductsByFields } from "./api/openFoodFacts.js";
 import * as pModule from "./modules/productsModule.js";
 import {calculateScore} from './modules/scoring.js';
 
+//jsons
+import categoryJson from "./data/categories.json" assert { type: "json" };
+
+// IMPORTS END
+
 const app = express();
 const PORT = 6969;
 
 app.use(express.json());
 
-// ROUTES HERE
+// TEST ROUTES
 app.get("/", (req, res) => {
   res.send("Buy-Nadian Engine running");
 });
 
-import data from "./data/testData.json" assert { type: "json" };
 app.get("/test", async (req, res) => {
   let array = [];
-  data.forEach((item) => {
+  categoryJson.forEach((item) => {
     let it = pModule.extractProductDetails(item);
     array.push(it);
   });
@@ -147,14 +151,25 @@ app.get("/test2", async (req, res) => {
   }
 });
 
-app.get("/products", async (req, res) => {
-    req.query
+
+// ACTUAL ROUTES
+app.get("/categories", async (req, res) => {
   try {
-    fetchProductsByFields();
+    let categories = Object.entries(categoryJson).filter(([_, dat]) => !dat.parents || dat.parents.length === 0)
+    .map(([id, dat], idx) => ({
+      id: idx,
+      name: dat.name.en || id,
+    }));
+    res.json(categories);
   }
   catch (error) {
-    
+    console.log(error);
+    res.status(500);
   }
+});
+
+app.get("/search_products", (req, res) => {
+    
 });
 
 // listening message idk

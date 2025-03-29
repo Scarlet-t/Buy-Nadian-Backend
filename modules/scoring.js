@@ -166,18 +166,13 @@ export async function calculateScore(product) {
             console.log("failed");
             console.log(error);
         }
-
     }
     else {
         confidence_score = 1;
         prior_average = 1;
     }
-
-
     console.log(`confidence: ${confidence_score}; estimate: ${estimated_percentage}; prioravg: ${prior_average}`)
-    let final_estimate = (estimated_percentage * confidence_score) + (prior_average * (1 - confidence_score));
-
-
+    let final_estimate = (estimated_percentage * confidence_score) + (prior_average * (1 - confidence_score)) * 100;
     return final_estimate;
 }
 

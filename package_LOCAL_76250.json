@@ -2,7 +2,7 @@
   "name": "buy-nadian-backend",
   "type": "module",
   "version": "1.0.0",
-  "description":"",
+  "description": "here's the site https://patrick-batman-owo.vercel.app/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,6 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "nanogptjs": "^1.0.4",
-    "openai": "^4.90.0",
-    "puppeteer": "^24.4.0"
+    "openai": "^4.90.0"
   }
 }

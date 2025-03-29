@@ -1,0 +1,322 @@
+[
+    {
+        "id": 0,
+        "name": "Syrups"
+    },
+    {
+        "id": 1,
+        "name": "Cooking helpers"
+    },
+    {
+        "id": 2,
+        "name": "Whole durum wheat spirals"
+    },
+    {
+        "id": 3,
+        "name": "Variety packs"
+    },
+    {
+        "id": 4,
+        "name": "Fish and meat and eggs"
+    },
+    {
+        "id": 5,
+        "name": "Unpasteurised products"
+    },
+    {
+        "id": 6,
+        "name": "Terrines"
+    },
+    {
+        "id": 7,
+        "name": "Snacks"
+    },
+    {
+        "id": 8,
+        "name": "Mountain products"
+    },
+    {
+        "id": 9,
+        "name": "Artisan products"
+    },
+    {
+        "id": 10,
+        "name": "Beverages and beverages preparations"
+    },
+    {
+        "id": 11,
+        "name": "fr:semi-complet"
+    },
+    {
+        "id": 12,
+        "name": "Food decorations"
+    },
+    {
+        "id": 13,
+        "name": "fr:de-matieres-grasses"
+    },
+    {
+        "id": 14,
+        "name": "Chips and fries"
+    },
+    {
+        "id": 15,
+        "name": "Dried products"
+    },
+    {
+        "id": 16,
+        "name": "fr:premier-cru"
+    },
+    {
+        "id": 17,
+        "name": "Vegan products"
+    },
+    {
+        "id": 18,
+        "name": "Dietary supplements"
+    },
+    {
+        "id": 19,
+        "name": "Crêpes and galettes"
+    },
+    {
+        "id": 20,
+        "name": "Meal kits"
+    },
+    {
+        "id": 21,
+        "name": "fr:thon-crudites"
+    },
+    {
+        "id": 22,
+        "name": "ru:молоко-питьевое-с-массовой-долей-жира-от-4-7-до-7-0"
+    },
+    {
+        "id": 23,
+        "name": "Specific products"
+    },
+    {
+        "id": 24,
+        "name": "Frozen foods"
+    },
+    {
+        "id": 25,
+        "name": "Spreads"
+    },
+    {
+        "id": 26,
+        "name": "Semi whole durum wheat spirals"
+    },
+    {
+        "id": 27,
+        "name": "Desserts"
+    },
+    {
+        "id": 28,
+        "name": "Meals"
+    },
+    {
+        "id": 29,
+        "name": "Stuffing"
+    },
+    {
+        "id": 30,
+        "name": "Brick sheets"
+    },
+    {
+        "id": 31,
+        "name": "Bulk"
+    },
+    {
+        "id": 32,
+        "name": "Farming products"
+    },
+    {
+        "id": 33,
+        "name": "Cocoa and its products"
+    },
+    {
+        "id": 34,
+        "name": "Plant-based foods and beverages"
+    },
+    {
+        "id": 35,
+        "name": "Fromages blancs - petit suisses and skyr"
+    },
+    {
+        "id": 36,
+        "name": "Refrigerated foods"
+    },
+    {
+        "id": 37,
+        "name": "Incorrect product type"
+    },
+    {
+        "id": 38,
+        "name": "Breaded products"
+    },
+    {
+        "id": 39,
+        "name": "Breakfasts"
+    },
+    {
+        "id": 40,
+        "name": "Bee products"
+    },
+    {
+        "id": 41,
+        "name": "Canned foods"
+    },
+    {
+        "id": 42,
+        "name": "Festive foods"
+    },
+    {
+        "id": 43,
+        "name": "Fresh foods"
+    },
+    {
+        "id": 44,
+        "name": "Sandwich made with French bread"
+    },
+    {
+        "id": 45,
+        "name": "Frozen fruits with added sugar"
+    },
+    {
+        "id": 46,
+        "name": "ru:икра-овощная"
+    },
+    {
+        "id": 47,
+        "name": "Skewers"
+    },
+    {
+        "id": 48,
+        "name": "Purées"
+    },
+    {
+        "id": 49,
+        "name": "Wheat vermicelli"
+    },
+    {
+        "id": 50,
+        "name": "Freeze-dried foods"
+    },
+    {
+        "id": 51,
+        "name": "Pies"
+    },
+    {
+        "id": 52,
+        "name": "Broths"
+    },
+    {
+        "id": 53,
+        "name": "Meats and their products"
+    },
+    {
+        "id": 54,
+        "name": "Fats"
+    },
+    {
+        "id": 55,
+        "name": "ru:молоко-питьевое-с-массовой-долей-жира-от-4-7-до-7-0-ультрапастеризованное"
+    },
+    {
+        "id": 56,
+        "name": "fi:hapatettu"
+    },
+    {
+        "id": 57,
+        "name": "Food additives"
+    },
+    {
+        "id": 58,
+        "name": "Caramelised"
+    },
+    {
+        "id": 59,
+        "name": "Capsules"
+    },
+    {
+        "id": 60,
+        "name": "Bread coverings"
+    },
+    {
+        "id": 61,
+        "name": "Fried foods"
+    },
+    {
+        "id": 62,
+        "name": "Biscuits and crackers"
+    },
+    {
+        "id": 63,
+        "name": "fr:conserve"
+    },
+    {
+        "id": 64,
+        "name": "Pasteurised products"
+    },
+    {
+        "id": 65,
+        "name": "Caviar substitutes"
+    },
+    {
+        "id": 66,
+        "name": "Fermented foods"
+    },
+    {
+        "id": 67,
+        "name": "Sweet pies"
+    },
+    {
+        "id": 68,
+        "name": "Dairies"
+    },
+    {
+        "id": 69,
+        "name": "Seafood"
+    },
+    {
+        "id": 70,
+        "name": "Sandwiches"
+    },
+    {
+        "id": 71,
+        "name": "Condiments"
+    },
+    {
+        "id": 72,
+        "name": "fr:poulet-crudites"
+    },
+    {
+        "id": 73,
+        "name": "Baby foods"
+    },
+    {
+        "id": 74,
+        "name": "Pasteurised"
+    },
+    {
+        "id": 75,
+        "name": "Meat alternatives"
+    },
+    {
+        "id": 76,
+        "name": "fi:ruoat"
+    },
+    {
+        "id": 77,
+        "name": "Sweeteners"
+    },
+    {
+        "id": 78,
+        "name": "fi:hapatetut"
+    },
+    {
+        "id": 79,
+        "name": "Unpasteurised"
+    }
+]
