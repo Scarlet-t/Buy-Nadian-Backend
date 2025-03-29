@@ -1,4 +1,5 @@
-import puppeteer from "puppeteer";
+const puppeteer = require("puppeteer");
+
 
 // Function to search for a brand on MadeInCanadaDirectory and extract results
 async function searchBrand(brandName) {

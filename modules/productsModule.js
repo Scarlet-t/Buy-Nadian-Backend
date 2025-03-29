@@ -25,7 +25,7 @@ function getImage(product, size = "") {
 
 // !!!! EXPORTS HERE
 // grabs only the important info from a product object
-export function extractProductDetails(product, referenceCountry = "canada") {
+function extractProductDetails(product, referenceCountry = "canada") {
   if (!product) return null;
 
   // chop this down later if there are redundancies/fields for low prio implementation
@@ -63,7 +63,7 @@ export function extractProductDetails(product, referenceCountry = "canada") {
 }
 
 // only extracts fields needed for preview
-export function extractProductPreviewDetails(product) {
+function extractProductPreviewDetails(product) {
   if (!product)
     return null;
 
@@ -83,3 +83,5 @@ export function extractProductPreviewDetails(product) {
   return previewDetails;
 
 }
+
+module.exports={extractProductDetails, extractProductPreviewDetails};

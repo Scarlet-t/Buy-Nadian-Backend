@@ -1,5 +1,5 @@
-import nanogptjs from 'nanogptjs'
-import dotenv from 'dotenv';
+const nanogptjs = require('nanogptjs');
+const dotenv = require('dotenv');
 
 // key setup
 dotenv.config();
@@ -13,7 +13,8 @@ const nanogpt = nanogptjs({
 
 // function exports
 
-export async function getEstimate(productData) {
+module.exports = {getEstimate};
+async function getEstimate(productData) {
     if (!productData) {
       throw new Error("Missing productData");
     }

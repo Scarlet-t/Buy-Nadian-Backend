@@ -18,7 +18,9 @@
   }
 
   // EXPORTS
-  export async function fetchProductsByFields({
+  // eventually rmove page stuff and use caching
+  // caching also comes wit hlabels, like jam idk
+async function fetchProductsByFields({
     tagTypes,
     tagValues,
     pageSize = 50,
@@ -52,5 +54,5 @@
     return data.products || []; //!! returns empty string if no results
   }
 
-
+module.exports = {fetchProductsByFields};
   

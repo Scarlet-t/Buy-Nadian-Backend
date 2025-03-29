@@ -1,10 +1,11 @@
-import "dotenv/config";
-import OpenAI from "openai";
+require("dotenv").config();
+const OpenAI = require("openai");
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-export default openai;
 
-export async function getEstimate(productData) {
+module.exports = {openai, getEstimate};
+
+async function getEstimate(productData) {
   if (!productData) {
     throw new Error("Missing productData");
   }

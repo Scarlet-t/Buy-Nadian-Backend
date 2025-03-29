@@ -1,10 +1,18 @@
-//this is where we grade the products by canadian-ness
+const oai = require("../api/oai.js");
+const nano = require("../api/nanogpt.js");
 
-import * as oai from "../api/oai.js";
-import * as nano from "../api/nanogpt.js";
-//json imorts
-import foodBusinesses from "../data/FoodBusinesses.json" assert { type: "json" };
-import testData from "../data/testData.json" assert { type: "json" };
+// JSON imports (using fs for CommonJS)
+const fs = require("fs");
+const path = require("path");
+
+const foodBusinesses = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "../data/FoodBusinesses.json"), "utf-8")
+);
+
+const testData = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "../data/testData.json"), "utf-8")
+);
+ 
 
 // if lowercase product.origin_breakdown.origin = canada
 //  return product.origin_breakdown.percent
@@ -137,7 +145,7 @@ function getConfidence(product) {
     return 1;
 }
 
-export async function calculateScore(product) {
+async function calculateScore(product) {
     //set confidence levels
     // origin listed
     let estimated_percentage = product.origin_breakdown.origin? product.origin_breakdown.origin.percent/100 : null;
@@ -176,3 +184,4 @@ export async function calculateScore(product) {
     return final_estimate;
 }
 
+module.exports = {calculateScore};
