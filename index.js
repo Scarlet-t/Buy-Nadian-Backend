@@ -22,7 +22,7 @@ app.use(express.json());
 
 // TEST ROUTES
 app.get("/", (req, res) => {
-    resdis.startGet()
+    redis.startGet()
   res.send("Buy-Nadian Engine running");
 });
 
