@@ -1,3 +1,5 @@
+import fs from 'fs/promises';
+
 // npm
 import express from "express";
 
@@ -10,13 +12,13 @@ import { fetchProductsByFields } from "./api/openFoodFacts.js";
 import * as pModule from "./modules/productsModule.js";
 import {calculateScore} from './modules/scoring.js';
 
-//jsons
-import categoryJson from "./data/categories.json" assert { type: "json" };
 
 // IMPORTS END
 
 const app = express();
 const PORT = 6969;
+const categoryJson = JSON.parse(await fs.readFile("./data/categories.json", 'utf-8'));
+
 
 app.use(express.json());
 
@@ -169,7 +171,7 @@ app.get("/categories", async (req, res) => {
 });
 
 app.get("/search_products", (req, res) => {
-    
+
 });
 
 // listening message idk
